@@ -1,0 +1,32 @@
+{
+  "es": {
+    "slide": "Diapositivo",
+    "lessonCustomization":"Personalización de lección",
+    "errors": {
+      "required": "Requerido",
+      "noDuplicateLessonNames":"Ya existe una lección con este nombre en este curso",
+      "availableOnDateInCourseDuration": "La fecha disponible debe estar dentro de la duración del curso",
+      "uploadOrDisable": "Sube un video o desactiva video diapositivo",
+      "correctForm":"Corrija el formulario para continuar",
+      "audioCannotExceed": "El tamaño del archivo de audio no puede exceder",
+      "videoCannotExceed": "El tamaño del archivo de video no puede exceder"
+    },
+
+    "buttons": {
+      "publish": "Publicar",
+      "update": "Actualizar",
+      "addSlide": "Añadir diapositivo",
+      "removeSlide": "Eliminar diapositivo",
+      "selectAudioFile": "Seleccionar archivo de audio",
+      "selectVideoFile": "Seleccionar archivo de video"
+    },
+
+    "fields": {
+      "lessonName": "Nombre de la lección",
+      "publish": "Publicar",
+      "availableOnDate": "Fecha de disponibilidad",
+      "videoContent": "Video diapositivo",
+      "audioFromFile": "Audio de un archivo"
+    }
+  }
+}

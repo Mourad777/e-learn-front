@@ -1,0 +1,76 @@
+{
+  "es": {
+    "assignmentResources": "Recursos de tarea",
+    "testResources": "Recursos de prueba",
+    "assignmentgrade": "Calificacione de la tarea",
+    "testgrade": "Calificacione de la prueba",
+    "sectionResources":"Recursos de la sección",
+    "sectionWorth":"Esta sección vale ",
+    "multiplechoicesection": "Sección opción multiple",
+    "essaysection": "Sección ensayo",
+    "speakingsection": "Sección oral",
+    "fillintheblankssection": "Sección llenar los espacios vacíos",
+    "multipleChoice": "Opción multiple",
+    "essay": "Ensayo",
+    "speaking": "Oral",
+    "fillInBlanks": "Llenar los espacios vacíos",
+    "question": "Pregunta",
+    "blank": "Vacío",
+    "studentAnsweredCorrectly":"Respondió  correctamente",
+    "correctAnswer": "Respuesta correcta",
+    "correctAnswerPlural": "Respuesta correctas",
+    "studentAnswer": "Respuesta del estudiante",
+    "solution": "Solución",
+    "latePenalty": "Penalización por retraso",
+    "passed": "Aprobada",
+    "failed": "Falló",
+    "summary": "Resumen",
+    "dayLateSingular": "día retrasado",
+    "dayLatePlural": "días retrasados",
+    "assignmentGrade": "Calificacione de la tarea",
+    "testGrade": "Calificacione de la prueba",
+    "gradeAdjustedForWeights": "Las calificaciones se ajustan según las porcentajes de las secciones.",
+    "gradeAdjustedForWeightsAndLatePenalty": "Las calificaciones se ajustan según las porcentajes de las secciones y la penalización por retraso.",
+    "noGradeReleaseDateWarning": "Dado que no ha especificado una fecha de publicación de calificaciones, el estudiante podrá ver las calificaciones inmediatamente después de publicarlas.",
+    "gradeRelaseDatePassedWarning": "Dado que la fecha de publicación de calificaciones ha pasado, el estudiante podrá ver sus calificaciones inmediatamente después de que las publique.",
+    "gradeReleaseDateNotYetPassedWarning":"Una vez que se publican las calificaciones, el estudiante podrá ver las calificaciones y revisar las respuestas el .",
+    "oneAnswerIncorrect": "1 respuesta fue seleccionada incorrectamente",
+    "oneAnswerMissing": "Se debería haber seleccionado 1 respuesta correcta pero no fue",
+    "xAnswersSelectedIncorrectly": "2 respuestas fueron seleccionadas incorrectamente",
+    "xAnswersMissing": "2 respuestas deberían haber sido seleccionadas pero no fueron",
+    "noAnswerProvided":"El estudiante no respondió",
+    "studentSelected":"seleccionó",
+    "incorrectOptionOne":"Opción incorrecta 1",
+
+    "errors": {
+      "required": "Requerido",
+      "finalGradeBetweenZeroAndHundred": "La calificación final debe estar entre 0 y 100",
+      "latePenaltyBetweenZeroAndHundred": "Penalización por retraso debe estar entre 0 y 100",
+      "valueCantBeNegative": "El valor no puede ser negativo",
+      "valueCantBeGreaterThan": "El valor no puede ser mayor que ",
+      "correctForm": "Corrija el formulario para continuar",
+      "provideGrade": "Proporcionar una calificación o desactiva el cambio de calificación"
+    },
+    
+    "buttons": {
+      "playStudentsAnswer": "Escuche la respuesta del estudiante",
+      "playQuestion": "Escuche la pregunta",
+      "playSolution": "Escuche la solución",
+      "recordFeedback": "Grabar comentario",
+      "saveGradesExit": "Guardar calificaciones y salir",
+      "postGrades": "Publicar calificaciones",
+      "updateGrades": "Actualizar calificaciones"
+    },
+
+    "fields": {
+      "correctUsingTextEditor": "Corregir usando el editor de texto",
+      "marks": "Marcas",
+      "feedback": "Comentario",
+      "additionalNotesForStudent": "Comentario",
+      "overrideGrade": "Cambiar calificacione",
+      "gradeAdjustment": "Ajuste de calificacione",
+      "gradeAdjustmentExplanation": "Explicación del ajuste de calificación",
+      "agree": "Estoy de acuerdo"
+    }
+  }
+}

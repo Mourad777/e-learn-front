@@ -1,0 +1,45 @@
+{
+  "en": {
+    "classAverage":"Class average",
+    "courseProgress":"Course progress",
+
+    "weight":"Weight",
+    "result":"Result",
+    "passingRequired":"Passing required",
+    "showProgressReport":"Show progress report",
+    "hideProgressReport": "Hide progress report",
+    "test":"Test",
+    "assignment":"Assignment",
+    "tests":"Tests",
+    "assignments":"Assignments",
+    "passingGrade":"Passing grade",
+    "yes":"Yes",
+    "no":"No",
+    "missedDueDate":"Missed due date",
+    "excused":"excused",
+    "studentProgress":"Student's progress",
+    "grade":"Grade",
+    "assignmentsTests":"Assignments and tests",
+    "finalGrade":"Final grade",
+    "passed":"Passed",
+    "failed":"Failed",
+    "agree":"I agree",
+    "overrideGrade": "Override grade",
+    "overrideFail": "Override fail",
+    "gradeAdjustment": "Grade adjustment",
+    "gradeAdjustmentExplanation": "Grade adjustment explanation",
+    "requiredTestNotPassed":"One or more tests required to pass the course were not passed or not attempted",
+    "warning":"Once the final grade has been posted, the student can no longer do assignments or take tests. Lessons will remain accessible until the course end date",
+    "buttons":{
+      "gradebook":"Gradebook",
+      "postGrade":"Post final grade",
+      "updateFinalGrade":"Update final grade"
+    },
+    "errors":{
+      "required":"Required or disable grade override",
+      "finalGrade":"Final grade must be between {{minValue}} and 100",
+      "droppedOutNoDropDeadline":"The course cannot be graded since the student dropped out and there is no course drop deadline",
+      "droppedOutDropDeadlineNotYetPassed":"The course cannot be graded since the student dropped out and the course drop deadline has not yet passed"
+    }
+  }
+}

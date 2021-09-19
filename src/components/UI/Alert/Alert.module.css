@@ -1,0 +1,38 @@
+.alert {
+  position: fixed;
+  z-index: 1001;
+  width: 250px;
+  border-radius: 8px;
+  padding: 16px;
+  left: 50%;
+  top: 35%;
+  box-sizing: border-box;
+  transition: opacity 0.3s ease-out;
+}
+
+.withDrawer {
+  margin-left: -125px;
+}
+
+.noDrawer {
+  margin-left: -125px;
+}
+
+.success {
+  background-color: #e3f2fd;
+  border: 3px solid #1e88e5;
+  color: #1e88e5;
+}
+
+.fail {
+  background-color: rgb(255, 155, 155);
+  border: 3px solid rgb(208, 0, 0);
+  color: rgb(208, 0, 0);
+}
+
+@media (min-width: 600px) {
+    .withDrawer {
+        margin-left: -25px;
+    }
+} 
+

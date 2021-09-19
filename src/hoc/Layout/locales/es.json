@@ -1,0 +1,50 @@
+{
+    "es": {
+      "darkMode":"Modo oscuro",
+      "accountNotYetActivated":"El administrador aún no ha activado su cuenta.",
+      "drawer": {
+        "courses": "Cursos",
+        "users": "Usarios",
+        "transcript": "Transcrito",
+        "account": "Cuenta",
+        "logout": "Cerrar sesión",
+        "modules": "Modulos",
+        "lessons": "Lecciones",
+        "assignments": "Tareas",
+        "tests": "Pruebas",
+        "grades": "Calificar",
+        "chat": "Mensajes",
+        "students": "Estudiantes",
+        "progressReport": "Informe de progreso",
+        "test": "Prueba",
+        "resources": "Recursos",
+        "config": "Configuración",
+        "admin":"Admin",
+        "questions":"Preguntas"
+      },
+      "tabBar": {
+        "courses": "Cursos",
+        "newcourse": "Nuevo curso",
+        "editcourse":"Editar curso",
+        "yourcourses": "Sus courses",
+        "allcourses": "Todos los cursos",
+        "lessons": "Lecciones",
+        "newlesson": "Nueva lección",
+        "editlesson": "Editar lección",
+        "assignments": "Tareas",
+        "newassignment": "Nueva tarea",
+        "editassignment": "Editar tarea",
+        "completedassignments": "Tareas completadas",
+        "tests": "Pruebas",
+        "newtest":"Nueva prueba",
+        "edittest": "Editar prueba",
+        "completedtests":  "Pruebas completadas",
+        "questionbank": "Preguntas",
+        "contacts": "Contactos",
+        "chat": "Chat",
+        "students": "Estudiantes",
+        "instructors": "Profesores",
+        "enrollmentrequests": "Solicitudes de inscripción"
+      }
+    }
+  }

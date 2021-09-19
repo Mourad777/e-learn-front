@@ -1,0 +1,10 @@
+{
+  "es": {
+    "progressReport": "Informe de progreso",
+    "increaseCapacity":"Aumenta la capacidad de los estudiantes para permitirles a participar en el curso.",
+    "buttons":{
+      "submit":"Enviar",
+      "showReport":"Mostrar informe de progreso"
+    }
+  }
+}

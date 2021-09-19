@@ -1,0 +1,18 @@
+.SlideCustomizationContainer {
+	padding: 10px;
+	margin-bottom: 20px;
+	/* background: white; */
+	/* box-shadow: 1rem 1rem 1rem rgba(0,0,0, 0.02); */
+	border-radius: 4px;
+	border:1px solid rgba(0, 0, 0, 0.23);
+}
+
+.TextEditor {
+	margin:20px auto;
+}
+
+.FormList {
+	list-style-type:none;
+	padding:0;
+	overflow: hidden;
+}

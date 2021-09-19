@@ -1,0 +1,50 @@
+{
+  "es": {
+    "from":"de",
+    "reason":"Razón",
+    "passed":"pasó",
+    "failed":"falló",
+    "test":"prueba",
+    "assignment":"tarea",
+    "officeHoursUpdated": "Los horarios de oficina se ha actualizado para {{courseName}}",
+    "courseDropDeadline": "La fecha límite para abandonar el curso ha cambiado para {{courseName}} ",
+    "courseEnrollRequest": "{{firstName}} {{lastName}} ha solicitado inscribirse en {{courseName}}",
+    "courseEnrollApprove":"El profesor ha aceptado su solicitud para inscribirse en {{courseName}}",
+    "autoEnroll":"{{firstName}} se matriculó en el curso {{courseName}}",
+    "courseEnrollDeny":"El profesor le ha negado el acceso a {{courseName}}.",
+    "allowResubmission":"Se le permite enviar la solicitud nuevamente después de completar los requisitos.",
+    "courseDrop":"{{firstName}} {{lastName}} abandonó el curso {{courseName}}",
+    "gradeCourse":"Usted {{passOrFail}} {{courseName}} con una calificación de {{grade}}%",
+    "adjustGradeCourse":"El profesor ajustó su calificación para {{courseName}}. Usted {{passOrFail}} con una calificación de {{grade}}%",
+
+    "newStudentAccount": "{{firstName}} {{lastName}} abrió una nueva cuenta de estudiante.",
+    "newInstructorAccount": "{{firstName}} {{lastName}} abrió una nueva cuenta de profesor.",
+    "pendingApproval":"La activación de la cuenta requiere su aprobación.",
+
+    "newLesson": "Se publicó una nueva lección",
+    "newLessonLaterDate": "Se publicó una nueva lección a la que puede acceder después de {{date}}",
+    "lessonUpdated": "La lección {{lessonName}} fue actualizada",
+    "lessonUpdatedDateChanged": "La lección {{lessonName}} fue actualizada y ahora se puede acceder después de {{date}}",
+
+    "workSubmitted": "{{firstName}} presentó una {{testOrAssignment}}",
+    "workExcused": "Su {{testOrAssignment}} {{testName}} ha sido perdonada y no se incluirá en la calificación final.",
+    "workGraded": "Su {{testOrAssignment}} {{testName}} ha sido calificada {{grade}}% {{passOrFail}}",
+    "workReviewed": "Su {{testOrAssignment}} {{testName}} ha sido revisada",
+    "workReviewedGradeChanged": "Su {{testOrAssignment}} {{testName}} ha sido revisada {{grade}}% {{passOrFail}}",
+    "workGradeChanged": "La calificación de su {{testOrAssignment}} {{testName}} ha sido ajustada {{grade}}% {{passOrFail}}",
+    "workGradedLaterDate": "La {{testOrAssignment}} {{testName}} ha sido calificada, su calificación se publicará en {{gradeReleaseDate}}",
+
+    "newWorkPosted": "Se publicó una nueva {{testOrAssignment}}",
+    "workUpdated": "Se actualizó la {{testOrAssignment}} {{workName}}",
+    "changeWorkDueDate": "La fecha de vencimiento de la {{testOrAssignment}} {{testName}} se cambió a {{dueDate}}",
+    "removeWorkDueDate": "La fecha de vencimiento de la {{testOrAssignment}} se eliminó, se puede enviar en cualquier momento",
+    "changeWorkAvailableOnDate": "La fecha de disponibilidad de la {{testOrAssignment}} en se cambió a {{availableOnDate}}",
+    "removeWorkAvailableOnDate": "La {{testOrAssignment}} ya está disponible en cualquier momento",
+    "assignmentLateSubmissionRemoved": "El profesor ya no permite que la tarea se presente tarde.",
+    "assignmentLateSubmissionAllowed": "El profesor ha permitido la presentación tardía de la tarea con una penalización diaria de {{latePenalty}}% por un maxiumum {{lateDaysAllowed}} días.",
+    "assignmentMaxLateDaysChanged": "El máximo de días de retraso permitidos para la tarea tarde ha cambiado a {{lateDaysAllowed}} días.",
+    "assignmentDailyPenaltyChanged": "La penalización diaria por enviar la tarea tarde ha cambiado a {{latePenalty}}% por día.",
+    "workReset":"El profesor reinició la {{testOrAssignment}} {{testName}}. {{message}}",
+    "workResetCanTakeAgain":"El profesor reinició {{testOrAssignment}} {{testName}}. El progreso o la calificación se ha eliminado y puede volver a tomarlo"
+  }
+}

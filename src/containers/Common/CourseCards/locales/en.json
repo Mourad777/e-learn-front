@@ -1,0 +1,27 @@
+{
+  "en": {
+    "studentsEnrolled":"Students enrolled",
+    "enrollmentRequested":"Enrollment requested",
+    "noCourses":"There are no courses at the moment",
+    "instructor":"Instructor",
+    "enrollmentStart":"Enrollement start date",
+    "enrollmentDeadline":"Enrollement deadline",
+    "courseNotActivated":"The course has not been activated by the instructor",
+    "deniedRequest":"The instructor has denied your request to enroll in this course",
+    "completePrereqs":"You must complete the prerequisites to enroll",
+    "courseCompleted":"Course completed {{grade}}%",
+    "courseFailed":"Course failed {{grade}}%",
+    "droppedOut":"Dropped out",
+    "buttons": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "syllabus":"Syllabus",
+      "enroll": "Enroll",
+      "drop":"Drop"
+    },
+    "fields":{
+      "courseActive":"Course active",
+      "courseInactive":"Course inactive"
+    }
+  }
+}

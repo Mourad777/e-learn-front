@@ -1,0 +1,14 @@
+{
+  "es": {
+    "errors": {
+      "micBlocked": "Su micrófono está bloqueado en el navegador"
+    },
+    "buttons": {
+      "clearAudio": "Eliminar audio",
+      "record": "Grabar",
+      "stop": "Terminar",
+      "preview": "Escuchar"
+    }
+
+  }
+}

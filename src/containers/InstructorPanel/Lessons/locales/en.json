@@ -1,0 +1,12 @@
+{
+    "en": {
+      "lesson": "Lesson",
+      "lessons": "Lessons",
+      "availableOn": "Available on",
+      "completed":"Completed",
+      "buttons":{
+        "next":"Next",
+        "back":"Back"
+      }
+    }
+}

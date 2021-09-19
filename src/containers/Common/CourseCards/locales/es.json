@@ -1,0 +1,27 @@
+{
+  "es": {
+    "studentsEnrolled":"Estudiantes matriculados",
+    "enrollmentRequested":"Inscripción solicitada",
+    "noCourses":"No hay cursos en este momento",
+    "instructor":"Profesor",
+    "enrollmentStart":"Fecha de inicio de la inscripción",
+    "enrollmentDeadline":"Fecha de finalización de la inscripción",
+    "courseNotActivated":"El curso no ha sido activado por el profesor",
+    "deniedRequest":"El instructor ha denegado su solicitud para inscribirse en este curso",
+    "completePrereqs":"Debe completar los cursos de prerrequisito para inscribirse",
+    "courseCompleted":"Curso completado {{grade}}%",
+    "courseFailed":"Curso falló {{grade}}%",
+    "droppedOut": "Abandonó el curso",
+    "buttons": {
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "syllabus":"Programa del curso",
+      "enroll": "Inscribirse en el curso",
+      "drop":"Dejar el curso"
+    },
+    "fields":{
+      "courseActive":"Curso activo",
+      "courseInactive":"Curso inactivo"
+    }
+  }
+}

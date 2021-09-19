@@ -1,0 +1,11 @@
+{
+  "es": {
+    "students":"Estudiantes",
+    "instructor":"Profesor",
+    "from":"de",
+    "to":"a",
+    "typeMessage":"Escribe su mensaje...",
+    "chatInstructorOnlyOfficeHours":"El chat con el instructor solo está disponible durante las horas de oficina",
+    "chatStudentOnlyOfficeHours":"El chat con los estudiantes solo está disponible durante las horas de oficina"
+  }
+}

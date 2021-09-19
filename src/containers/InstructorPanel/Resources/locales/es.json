@@ -1,0 +1,15 @@
+{
+  "es": {
+    "buttons": {
+      "updateResources": "Actualizar los recursos",
+      "select":"Elegir",
+      "addResource": "Añadir recurso",
+      "resourceName": "Nombre del recurso"
+    },
+    "errors":{
+      "giveResourceName":"Debe darle un nombre al recurso",
+      "selectResource":"Debes seleccionar un recurso o eliminar el campo",
+      "fileSize":"El archivo debe ser menor o igual a {{size}}"
+    }
+  }
+}

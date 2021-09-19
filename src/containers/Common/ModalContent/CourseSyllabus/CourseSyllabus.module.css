@@ -1,0 +1,11 @@
+.Bold {
+    font-weight: bold;
+}
+
+.Contained {
+    word-break: break-all;
+}
+
+.Contained img {
+    width: 100%;
+}

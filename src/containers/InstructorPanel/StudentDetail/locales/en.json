@@ -1,0 +1,11 @@
+{
+  "en": {
+    "pendingRequests": "Pending requests",
+    "requestsDenied": "Requests denied",
+    "resubmissionAllowed": "Resubmission allowed",
+    "droppedOut": "Dropped out",
+    "buttons": {
+      "gradebook": "Gradebook"
+    }
+  }
+}

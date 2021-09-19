@@ -1,0 +1,20 @@
+{
+  "es": {
+    "assignments": "Tareas",
+    "lessons": "Lecciones",
+    "tests": "Pruebas",
+
+    "modules":"Modulos",
+    "subjects":"Sujetos",
+    "topics":"Temas",
+
+    "module":"Modulo",
+    "subject":"Sujeto",
+    "topic":"Tema",
+    "buttons":{
+      "addmodule":"Añadir modulo",
+      "addsubject":"Añadir sujeto",
+      "addtopic":"Añadir tema"
+    }
+  }
+}

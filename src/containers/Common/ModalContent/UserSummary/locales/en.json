@@ -1,0 +1,24 @@
+{
+  "en": {
+    "progressReport": "Progress report",
+    "increaseCapacity": "Increase student capacity to allow student in the course",
+    "suspendAccount": "Suspend account",
+    "approveAccount": "Activate account",
+    "activateAccount": "Re-activate account",
+    "pendingApproval": "Pending approval",
+    "suspended": "Account suspended",
+    "reason": "Reason",
+    "buttons": {
+      "submit": "Submit",
+      "showReport": "Show progress report",
+      "hideReport": "Hide progress report"
+    },
+    "status": {
+      "droppedOut": "Dropped out",
+      "pendingApproval": "Enrollment is pending approval",
+      "accessDenied": "Access to the course is denied",
+      "accountSuspended": "Account suspended",
+      "pendingActivation": "Account activation pending"
+    }
+  }
+}

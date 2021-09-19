@@ -1,0 +1,50 @@
+{
+    "en": {
+      "darkMode":"Dark mode",
+      "accountNotYetActivated":"Your account has not yet been activated by the admin.",
+      "drawer": {
+        "courses": "Courses",
+        "users": "Users",
+        "transcript": "Transcript",
+        "account": "Account",
+        "logout": "Logout",
+        "modules": "Modules",
+        "lessons": "Lessons",
+        "assignments": "Assignments",
+        "tests": "Tests",
+        "grades": "Grade",
+        "chat": "Chat",
+        "students": "Students",
+        "progressReport": "Progress report",
+        "test": "Test",
+        "resources": "Resources",
+        "config": "Settings",
+        "admin":"Admin",
+        "questions":"Questions"
+      },
+      "tabBar": {
+        "courses": "Courses",
+        "newcourse": "New course",
+        "editcourse": "Edit course",
+        "yourcourses": "Your courses",
+        "allcourses": "All courses",
+        "lessons": "Lessons",
+        "newlesson": "New lesson",
+        "editlesson": "Edit lesson",
+        "assignments": "Assignments",
+        "newassignment": "New assignment",
+        "editassignment": "Edit assignment",
+        "completedassignments": "Completed assignments",
+        "tests": "Tests",
+        "newtest": "New test",
+        "edittest": "Edit test",
+        "completedtests": "Completed tests",
+        "questionbank": "Question bank",
+        "contacts": "Contacts",
+        "chat": "Chat",
+        "students": "Students",
+        "instructors": "Instructors",
+        "enrollmentrequests": "Enrollment requests"
+      }
+    }
+}

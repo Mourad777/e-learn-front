@@ -1,0 +1,14 @@
+{
+  "en": {
+    "errors": {
+      "micBlocked": "Your microphone is blocked in the browser"
+    },
+    "buttons": {
+      "clearAudio": "Clear audio",
+      "record": "Record",
+      "stop": "Stop",
+      "preview": "Preview"
+    }
+
+  }
+}

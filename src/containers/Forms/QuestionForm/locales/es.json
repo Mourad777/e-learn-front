@@ -1,0 +1,45 @@
+{
+  "es": {
+    "question": "Pregunta",
+    "writeAnswers": "Escribe algunas respuestas correctas y incorrectas a la pregunta.",
+    "selectCorrectAnswers": "Seleccione las respuestas correcta(s)",
+    "option": "opción",
+    "fillblanksSectionDefaultText": "<p>Resalta un <mark class='marker-yellow'>fragmento de texto</mark> para crear un vacío.</p>",
+    "pieceOfText":"fragmento de texto",
+    "english":"inglés",
+    "errors": {
+      "required": "Requerido",
+      "answersCantBeEmpty": "Los campos de respuesta no pueden estar vacíos",
+      "atleastTwoAnswers": "Se requieren al menos 2 respuestas",
+      "atleastOneUnchecked": "Al menos 1 respuesta debe permanecer sin marcar",
+      "selectAtleastOneAnswer": "Seleccione al menos 1 respuesta correcta",
+      "answersDifferent": "Sus respuestas deben ser todas diferentes",
+      "requiredOrMakeAudioQuestion": "Requerido o haz una pregunta de audio",
+      "requiredOrMakeTextQuestion": "Requerido o haz una pregunta escrito",
+      "audioCannotExceed": "El tamaño del archivo de audio no puede exceder",
+      "requiredOrDisableAudioAnswer": "Requerido o desactiva respuesta de audio",
+      "correctForm": "Corrija el formulario para continuar"
+    },
+
+    "buttons": {
+      "updateQuestion": "Actualizar la pregunta",
+      "saveQuestion": "Guardar la pregunta",
+      "addAnswer": "Agregar respuesta",
+      "removeQuestion": "Eliminar pregunta"
+
+    },
+
+    "fields": {
+      "difficulty": "Dificultad",
+      "language": "Idioma",
+      "tags": "Etiquetas",
+      "easy": "Facil",
+      "medium": "Media",
+      "hard": "Difícil",
+      "audioQuestion": "Pregunta audio",
+      "audioAnswer": "Respuesta audio",
+      "solution": "Solución"
+
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "es": {
+    "test":"Prueba",
+    "assignment":"Tarea",
+    "yourProgress":"Su progreso",
+    "studentProgress":"Progreso del estudiante",
+    "grade":"Calificación",
+    "classAverage":"Promedio de la clase",
+    "assignmentsTests":"Tareas y pruebas"
+  }
+}

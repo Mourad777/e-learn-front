@@ -1,0 +1,34 @@
+{
+  "en": {
+    "multiplechoicesection": "Multiple-choice section",
+    "essaysection": "Essay section",
+    "speakingsection": "Speaking section",
+    "fillintheblankssection": "Fill-in-the-blanks section",
+    "assignmentResources": "Assignment resources",
+    "testResources": "Test resources",
+    "question": "Question",
+    "lessThanFiveMin":"Less than 5 minutes left, go over your answers and save your test",
+    "lessThanOneMin":"Less than 1 minute left, save your test",
+    "testClosesAt":"Test closes at {{time}}",
+    "errors": {
+      "questionsUnanswered": "You have left some questions unanswered",
+      "playQuestion": "Play question"
+    },
+    
+    "buttons": {
+      "save": "Save",
+      "exit": "Exit",
+      "submit": "submit",
+      "submitAnyway": "Submit Anyway",
+      "questions": "Questions",
+      "nextSection": "Next section",
+      "previousSection": "Previous section",
+      "recordAnswer": "Record answer",
+      "playQuestion": "Play question"
+
+    },
+    "fields":{
+      "selectAnswer":"Select the correct answer"
+    }
+  }
+}

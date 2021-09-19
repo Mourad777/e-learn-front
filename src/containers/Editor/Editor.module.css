@@ -1,0 +1,38 @@
+.editor {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    cursor: text;
+    /* padding: 16px; */
+    border-radius: 2px;
+    margin-bottom: 2em;
+    box-shadow: inset 0px 1px 8px -3px #ABABAB;
+    background: #fefefe;
+  }
+  
+  .editor :global(.public-DraftEditor-content) {
+    min-height: 140px;
+  }
+  
+  .options {
+    margin-bottom: 20px;
+  }
+
+  .textLabel {
+    margin-bottom: 10px;
+  }
+
+  .errorText {
+    color:#e91313;
+    font-family:Helvetica;
+    font-size:0.75rem;
+    margin-left: 14px;
+  }
+
+  .yellowBorder {
+    border:4px solid #ffeb3b;
+    border-radius: 3px;
+  }
+
+  .editor img {
+    width: 100%;
+  }

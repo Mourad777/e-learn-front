@@ -1,0 +1,76 @@
+{
+  "en": {
+    "assignmentResources": "Assignment resources",
+    "testResources": "Test resources",
+    "assignmentgrade": "Assignment grade",
+    "testgrade": "Test grade",
+    "sectionResources":"Section resources",
+    "multiplechoicesection": "Multiple-choice section",
+    "essaysection": "Essay section",
+    "speakingsection": "Speaking section",
+    "fillintheblankssection": "Fill-in-the-blanks section",
+    "multipleChoice": "Multiple-choice",
+    "essay": "Essay",
+    "speaking": "Speaking",
+    "fillInBlanks": "Fill-in-the-blanks",
+    "sectionWorth": "This section is worth ",
+    "question": "Question",
+    "blank": "Blank",
+    "correctAnswer": "Correct answer",
+    "correctAnswerPlural": "Correct answers",
+    "studentAnswer": "Student answer",
+    "studentAnsweredCorrectly":"Answered correctly",
+    "solution": "Solution",
+    "latePenalty": "Late penalty",
+    "passed": "Passed",
+    "failed": "Failed",
+    "summary": "Summary",
+    "dayLateSingular": "day late",
+    "dayLatePlural": "days late",
+    "assignmentGrade": "Assignment grade",
+    "testGrade": "Test grade",
+    "gradeAdjustedForWeights": "Grade adjusted for section weights",
+    "gradeAdjustedForWeightsAndLatePenalty": "Grade adjusted for section weights and late penalty",
+    "noGradeReleaseDateWarning": "Since you have not specified a grade release date, the student will be able to see the grades immediatly after you post them.",
+    "gradeRelaseDatePassedWarning": "Since the grade release date has passed, the student will be able to see his or her grades immediately after you post them.",
+    "gradeReleaseDateNotYetPassedWarning":"Once the grades are posted, the student will able to see the grades and review the answers on",
+    "oneAnswerIncorrect": "1 answer was selected incorrectly",
+    "oneAnswerMissing": "1 correct answer should have been selected but wasn't",
+    "xAnswersSelectedIncorrectly": "answers were selected incorrectly",
+    "xAnswersMissing": "answers should have been selected but weren't",
+    "noAnswerProvided":"No answer was provided by the student",
+    "studentSelected":"student selected",
+    "incorrectOptionOne":"Incorrect Option 1",
+    "errors": {
+      "required": "Required",
+      "finalGradeBetweenZeroAndHundred": "Final grade must be between 0 and 100",
+      "latePenaltyBetweenZeroAndHundred": "Late penalty must be between 0 and 100",
+      "valueCantBeNegative": "Value can't be negative",
+      "valueCantBeGreaterThan": "Value can't be greater than",
+      "provideGrade": "Provide a grade or disable grade override",
+      "correctForm": "Correct the form to continue"
+    },
+    
+    "buttons": {
+      "playStudentsAnswer": "Play student's answer",
+      "playQuestion": "Play question",
+      "playSolution": "Play solution",
+      "recordFeedback": "Record feedback",
+      "saveGradesExit": "Save grades and exit",
+      "postGrades": "Post grades",
+      "updateGrades": "Update grades"
+    },
+
+    "fields": {
+      "correctUsingTextEditor": "Correct using text editor",
+      "marks": "Marks",
+      "feedback": "Feedback",
+      "additionalNotesForStudent": "Additional notes for student",
+
+      "overrideGrade": "Override grade",
+      "gradeAdjustment": "Grade adjustment",
+      "gradeAdjustmentExplanation": "Grade adjustment explanation",
+      "agree": "I agree"
+    }
+  }
+}

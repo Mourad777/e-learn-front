@@ -1,0 +1,85 @@
+{
+  "en": {
+    "courseCustomization": "Course customization",
+    "courseThumbnail": "Course thumbnail",
+    "importantDates": "Important dates",
+    "weeklyOfficeHours": "Weekly office hours",
+    "specificDateOfficeHours": "Office hours on specific dates",
+    "coursePrerequisites": "Course prerequisites",
+    "courseSyllabus": "Course syllabus",
+    "instructor": "Instructor",
+    "errors": {
+      "required": "required",
+      "noDuplicateNames":"You already have a course with that name",
+      "enterCourseName":"You must enter a course name",
+      "studentCapacityGreaterThanZero":"Student capacity must be greater than 0",
+      "studentCapacityInteger":"Student capacity must be an integer",
+      "studentCapacityGreaterThanOrEqualTo":"Student capacity must be greater than or equal to the number of students enrolled",
+      "laterDate":"Must be a later date or time",
+      "startDateNotBeforeEndDate":"End date must be after start date",
+      "courseStartDateNotBeforeEnrollmentStartDate":"Course cannot start before enrollment start date",
+      "courseDropDateNotBeforeEnrollmentStartDate":"Course drop date cannot be before enrollment start date",
+      "courseDropDateNotAfterCourseEndDate":"Course drop date cannot be after course end date",
+      "enrollmentStartAndEndDateNotAfterCourseEndDate":"Enrollment start and end date cannot be after course end date",
+      "testsHasAvailableOnDate":"One of the tests or assignments in this course has an available on date on",
+      "testsHasDueDate":"One of the tests or assignments in this course has a due date on",
+      "testsHasGradeReleaseDate":"One of the tests or assignments in this course has a grade release date on",
+      "lessonsHasAvailableOnDate":"One of the lessons in this course has an available on date on",
+      "fallsOutsideCourseDuration":" which falls outside the course duration",
+      "isBeforeStartDateOfCourse":" which is before the start date of the course",
+      "enterDateOrRemove":"Enter a date or remove date",
+      "enterDateBeforeCourseEndDate":"Enter a date that is before the course end date",
+      "enterDateAfterCourseStartDate":"Enter a date that is after the course start date",
+      "startTimeEndTimeCannotBeSame":"Start time and end time can't be the same",
+      "startTimeCannotBeAfterEndTime":"Start time cannot be after end time",
+      "enterCompleteTimeInterval":"You didn't enter a complete time interval",
+      "enterTimeIntervalOrUncheck":"Enter a time interval or uncheck",
+      "correctForm":"Correct the form to continue"
+    },
+    "buttons": {
+      "update": "Update",
+      "publish": "Publish",
+      "clearImage": "Clear image",
+      "addDate": "Add date",
+      "removeDate": "Remove date",
+      "next": "Next",
+      "back": "Back"
+
+
+    },
+    "fields": {
+      "courseName": "Course name",
+      "courseActive": "Course active",
+      "taughtIn": "Taught in",
+      "maxStudents": "Student capacity",
+      "enrollmentPeriod": "Enrollment period",
+      "courseDuration": "Course duration",
+      "deadlineToDrop": "Deadline to drop course",
+      "date": "Date",
+      "timeRange": "Time interval",
+      "daysOfWeek": "Days of the week",
+      "chooseImage": "Choose image",
+      "costUSD":"Cost (USD)",
+      "couponCode":"Coupon code",
+      "couponExpiration":"Coupon expiration",
+      "weeklyOfficeHours": {
+        "mondayOfficeHours": "Monday office hours",
+        "tuesdayOfficeHours": "Tuesday office hours",
+        "wednesdayOfficeHours": "Wednesday office hours",
+        "thursdayOfficeHours": "Thursday office hours",
+        "fridayOfficeHours": "Friday office hours",
+        "saturdayOfficeHours": "Saturday office hours",
+        "sundayOfficeHours": "Sunday office hours"
+      }
+    },
+    "days": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    }
+  }
+}

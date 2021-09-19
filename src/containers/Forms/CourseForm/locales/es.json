@@ -1,0 +1,85 @@
+{
+  "es": {
+    "courseCustomization": "Personalización del curso",
+    "courseThumbnail": "Miniatura del curso",
+    "importantDates": "Fechas importantes",
+    "weeklyOfficeHours": "Horas de oficina semanales",
+    "specificDateOfficeHours": "Horas de oficina en fechas específicas",
+    "coursePrerequisites": "Cursos de requisitos previos",
+    "courseSyllabus": "Programa del curso",
+    "instructor": "Profesor",
+    "errors": {
+      "required": "Requerido",
+      "noDuplicateNames":"Ya tienes un curso con ese nombre",
+      "enterCourseName":"Debes ingresar un nombre de curso",
+      "studentCapacityGreaterThanZero":"La capacidad de los estudiantes debe ser superior a 0",
+      "studentCapacityInteger":"La capacidad de los estudiantes debe ser un número entero",
+      "studentCapacityGreaterThanOrEqualTo":"La capacidad de los estudiantes debe ser mayor o igual a la cantidad de estudiantes inscritos.",
+      "laterDate":"Debe ser una fecha o hora posterior",
+      "startDateNotBeforeEndDate":"La fecha de finalización debe ser posterior a la fecha de inicio",
+      "courseStartDateNotBeforeEnrollmentStartDate":"El curso no puede comenzar antes de la fecha de inicio de la inscripción",
+      "courseDropDateNotBeforeEnrollmentStartDate":"La fecha de abandono del curso no puede ser anterior a la fecha de inicio de la inscripción",
+      "courseDropDateNotAfterCourseEndDate":"La fecha de abandono del curso no puede ser posterior a la fecha de finalización del curso",
+      "enrollmentStartAndEndDateNotAfterCourseEndDate":"La fecha de inicio y finalización de la inscripción no puede ser posterior a la fecha de finalización del curso",
+      "testsHasAvailableOnDate":"Una de las pruebas o tareas de este curso tiene una fecha disponible el",
+      "testsHasDueDate":"Una de las pruebas o tareas de este curso tiene una fecha de vencimiento el",
+      "testsHasGradeReleaseDate":"Una de las pruebas o tareas de este curso tiene una fecha de publicación de calificaciones el",
+      "lessonsHasAvailableOnDate":"Una de las lecciones de este curso tiene fecha disponible el",
+      "fallsOutsideCourseDuration":" que está fuera de la duración del curso",
+      "isBeforeStartDateOfCourse":" que es anterior a la fecha de inicio del curso",
+      "enterDateOrRemove":"Ingrese una fecha o elimine la fecha",
+      "enterDateBeforeCourseEndDate":"Ingrese una fecha anterior a la fecha de finalización del curso",
+      "enterDateAfterCourseStartDate":"Ingrese una fecha posterior a la fecha de inicio del curso",
+      "startTimeEndTimeCannotBeSame":"La hora de inicio y la hora de finalización no pueden ser iguales",
+      "startTimeCannotBeAfterEndTime":"La hora de inicio no puede ser posterior a la hora de finalización",
+      "enterCompleteTimeInterval":"Ingrese un intervalo de tiempo completo",
+      "enterTimeIntervalOrUncheck":"Ingrese un intervalo de tiempo o desmarque",
+      "correctForm":"Corrija el formulario para continuar"
+    },
+    "buttons": {
+      "update": "Actualizar",
+      "publish": "Publicar",
+      "clearImage": "Elimina imagen",
+      "addDate": "Añadir fecha",
+      "removeDate": "Eliminar fecha",
+
+      "next": "Siguiente",
+      "back": "Atrás"
+    },
+    "fields": {
+      "courseName": "Nombre del curso",
+      "courseActive": "Curso activo",
+      "taughtIn": "Se imparte en",
+      "maxStudents": "Max estudiantes",
+      "enrollmentPeriod": "Período de inscripción",
+      "courseDuration": "Duración del curso",
+      "deadlineToDrop": "Fecha límite para abandonar el curso",
+      "date": "Fecha",
+      "timeRange": "Intervalo de tiempo",
+      "daysOfWeek": "Días de la semana",
+      "chooseImage": "Elige imagen",
+      "officeHours": "Hourario de officina",
+      "costUSD":"Costo (USD)",
+      "couponCode":"Código promocional",
+      "couponExpiration":"Caducidad del código",
+      "weeklyOfficeHours": {
+        "mondayOfficeHours": "Horario de oficina lunes",
+        "tuesdayOfficeHours": "Horario de oficina martes",
+        "wednesdayOfficeHours": "Horario de oficina miércoles",
+        "thursdayOfficeHours": "Horario de oficina jueves",
+        "fridayOfficeHours": "Horario de oficina viernes",
+        "saturdayOfficeHours": "Horario de oficina sábado",
+        "sundayOfficeHours": "Horario de oficina domingo"
+      }
+    },
+    "days": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+.Navbar {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#2196f3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Navbar nav {
+    height: 100%;
+}
+
+.Logo {
+    height: 80%;
+}
+
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
+
+/*color palets*/
+/*
+1)  Dark theme
+    background: #363940
+    modal/empty card: #303136
+    card or navbar: #212226
+    blue button #7089d9
+    green button #55ac89
+
+2)  rgb(190,88,13) ;
+    #c31618;
+     #166d40;
+     #490e3c;
+
+3) white background
+    blue nav
+    nav #2196f3
+    text color light grey:#717179
+    light grey background #fafafa
+    slightly darker grey container #eeeeee
+ 
+*/

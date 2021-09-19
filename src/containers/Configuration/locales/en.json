@@ -1,0 +1,61 @@
+{
+    "en": {
+      "hideActiveStatus": "Hide active status",
+      "stayLoggedIn": "Stay logged in",
+      "chatAllowedOutsideOfficehours": "Allow chat outside office hours",
+
+      "chatNotifications": "Chat",
+      "chat": "Chat",
+      "tests": "Test",
+      "lessons": "Lesson",
+      "assignments": "Assignment",
+      "course": "Course update",
+
+      "notificationsHeader": "Bell notifications",
+      "pushNotificationsHeader":"Push notifications",
+      "emailsHeader": "E-mails",
+      "sendNotificationsHeader": "Notify by notification bell",
+      "sendEmailsHeader": "Notify by e-mail",
+      "sendPushNotificationsHeader":"Notify by push notification",
+      
+      "dropCoursePenalty": "Require a minimum course grade",
+      "dropCourseGrade": "Minimum course grade",
+      "coursePassGrade": "Course pass grade",
+      "enrollAllowedAfterDropCourse": "Enroll allowed after course dropped",
+      "instructorCoursesLimited": "Limit number of courses per instructor",
+      "instructorCoursesLimit": "Courses limit per instructor",
+      "approveInstructorAccounts": "Approve instructor accounts prior to access",
+      "approveStudentAccounts": "Approve student accounts prior to access",
+      "approveEnrollments": "Enrollment approval required",
+      "contentBlockedCourseEnd": "Block course content after course ends",
+      "studentFileSizeLimit": "Student file upload size limit",
+      "instructorFileSizeLimit": "Instructor file upload size limit",
+      "passwordRequiredStartTest": "Password required prior to starting test",
+      "voiceRecordTimeLimit": "Voice record time limit (seconds)",
+      "newInstructorAccount": "New instructor account",
+      "newStudentAccount": "New student account",
+      "enrollRequest": "Student enrollment",
+      "dropCourse": "Student drops out of course",
+      "platformConfiguration":"Platform configuration",
+      "privacy": "Privacy",
+      "allowInstructorAccountDeletion": "Allow instructor account deletion",
+      "allowStudentAccountDeletion": "Allow student account deletion",
+      "errors": {
+        "required": "Required",
+        "intGreaterThanZero":"Must be an integer greater than zero",
+        "positiveInt":"Must be an integer",
+        "betweenOneAndOneThousand":"Must be a number between 1 and 1000",
+        "greaterEqualToZeroLessThanOneHundred":"Must be a number greater than or equal to 0 and less than 100",
+        "greaterThanZeroLessThanEqualOneHundred":"Must be a number greater than 0 and less than or equal to 100",
+        "intGreaterThanEqualOneLessThanEqualOneHundred":"Must be an integer greater than or equal to 1 and less than or equal to 100",
+        "greaterThanEqualPointOneLessThanEqualOneThousand":"Must be a number greater than or equal to 0.1 and less than or equal to 1000",
+        "greaterThanEqualOneLessThanEqualOneThousand":"Must be a number greater than or equal to 1 and less than or equal to 1000",
+        "dropGradeLessThanPassGrade":"Minimum grade must be less than the pass grade",
+        "passGradeMoreThanDropGrade":"Pass grade must be more than the minimum grade"
+
+      },
+      "buttons": {
+        "updateConfig": "Update configuration"
+      }
+    }
+}

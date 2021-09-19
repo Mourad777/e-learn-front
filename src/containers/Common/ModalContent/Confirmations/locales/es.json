@@ -1,0 +1,111 @@
+{
+  "es": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "dob": "Fecha de nacimiento",
+    "studentId": "Identificación del estudiante",
+    "lastLogin":"Última fecha de inicio de sesión",
+    "courseProgress":"Progreso del curso",
+    "documents":"Documentos",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "governmentId": "Identificación de gobierno",
+    "birthCertificate": "Certificado de nacimiento",
+    "transcript": "Boleta de calificaciones",
+    "proofLegalStatus": "Prueba de estatus legal",
+    "cv": "Curriculum vitae (cv)",
+    "proofTestScores": "Prueba de puntajes de exámenes",
+    "letterReference": "Carta de referencia",
+    "statementPurpose": "Declaración de propósito",
+    "other": "Otra",
+    "enrollCourse":{
+      "language":"El idioma de enseñanza",
+      "payAndRequest":"Pagar y enviar solicitud",
+      "pay":"Paga"
+    },
+    "enrollConfirm":{
+      "decision":"Decisión",
+      "allow":"Permitir el acceso",
+      "deny":"Negar acceso",
+      "allowResubmission":"Permitir reenvío",
+      "reason":"Razón del acceso denegado",
+      "submit":"Enviar"
+    },
+    "dropCourse":{
+      "youAreDropping":"Está dejando",
+      "deadlineNotYet":"La fecha límite para abandonar el curso no ha pasado. El curso no aparecerá en su expediente académico",
+      "deadlinePassed":"La fecha límite para abandonar el curso ha pasado, se le notificará cuando se publique su calificación. Su calificación consistirá en las pruebas y tareas que envió.",
+      "youCanReenroll":"Puede volver a inscribirse en el curso antes de la fecha límite de inscripción",
+      "youCanNotReenroll":"No podrá volver a matricularte en el curso ya que ha pasado la fecha límite de inscripción",
+      "agree":"Estoy de acuerdo",
+      "dropCourse":"Abandonar el curso",
+      "noEnroll":"No podrás volver a matricularte en el curso."
+    },
+    "deleteCourse":{
+      "youAreDeleting":"Estás borrando",
+      "deletingCourseWillDeleteContent":"Eliminar el curso también eliminará todas sus pruebas, lecciones y tareas",
+      "studentsNoAccess":"Los estudiantes ya no tendrán acceso a los materiales del curso",
+      "courseRemovedFromRecord":"El curso se eliminará del registro de los estudiantes",
+      "agree":"Estoy de acuerdo",
+      "deleteCourse":"Eliminar curso",
+      "deactivateAlternative":"Alternativamente, puede desactivar el curso",
+      "courseRemainsAccessibleToYou":"El curso seguirá siendo accesible para usted, pero no para los estudiantes",
+      "wontEraseContent":"No borrará el contenido del curso, pero los estudiantes no tendrán acceso al material del curso",
+      "deactivate":"Desactivar curso"
+    },
+    "deleteTest":{
+      "deleteAssignment":"Borrar tarea",
+      "deleteTest":"Borrar prueba",
+      "assignmentGradeRemoved":"A los estudiantes que hayan realizado la tarea se les quitará la calificación",
+      "testGradeRemoved":"A los estudiantes que hayan realizado la prueba se les quitará la calificación",
+      "questionBankNotAffected":"El banco de preguntas no se verá afectado",
+      "agree":"Estoy de acuerdo"
+    },
+    "deleteLesson":{
+      "youAreDeleting":"Estás borrando",
+      "noAccess":"Los estudiantes ya no tendrán acceso al contenido de esta lección",
+      "deleteLesson":"Borrar lección",
+      "agree":"Estoy de acuerdo"
+    },
+    "takeTest":{
+      "saveOften":"Guarde su prueba con frecuencia. Si sale del navegador, aún puede realizar la prueba siempre que el temporizador no haya expirado. Sus respuestas se restaurarán a la última vez que guardó la prueba",
+      "startTest":"Iniciar prueba",
+      "startAssignment":"Iniciar tarea",
+      "agree":"Estoy de acuerdo",
+      "loginPassword":"Contraseña de inicio de sesión",
+      "required":"Requerido",
+      "wrongPassword":"Contraseña incorrecta",
+      "mc": "Opción multiple",
+      "mcShort": "Opc mult",
+      "essay": "Ensayo",
+      "speaking": "Oral",
+      "fillblanks": "Llenar espacios vacíos",
+      "fillblanksShort": "Llenar vacíos",
+      "reviewTest":"Revisar la prueba",
+      "reviewAssignment":"Revisar tarea",
+      "testNotAvailable":"La prueba aún no está disponible",
+      "assignmentNotAvailable":"La tarea aún no está disponible",
+      "testPastDue":"La prueba ahora está cerrada",
+      "gradePending":"Pendiente de calificación",
+      "testExcused":"La prueba esta perdonada",
+      "assignmentExcused":"La tarea esta perdonada",
+      "assignmentPastDue":"La tarea ahora está cerrada",
+      "setUpPassword":"Debe configurar una contraseña en el panel de la cuenta antes de poder comenzar la prueba"
+    },
+    "resetTest":{
+      "resetingAssignment":"Está reiniciando la tarea",
+      "resetingTest":"Está reiniciando la prueba",
+      "willBeAbleTest":"podrá volver a realizar la prueba",
+      "willBeAbleAssignment":"podrá volver a realizar la tarea",
+      "gradeWillBeDeleted":"Se eliminará la calificación o el progreso",
+      "everyStudentCanRetakeTest":"Todos los estudiantes del curso podrán volver a tomar la prueba y usted podrá realizar cambios en la prueba.",
+      "everyStudentCanRetakeAssignment":"Todos los estudiantes del curso podrán volver a tomar la tarea y usted podrá realizar cambios en la tarea.",
+      "studentsGradeWillBeErased":"Se borrará la calificación de los estudiantes",
+      "resetTest":"Reiniciar prueba",
+      "resetAssignment":"Reiniciar tarea",
+      "reason":"Razón",
+      "agree":"Estoy de acuerdo"
+    }
+  }
+}

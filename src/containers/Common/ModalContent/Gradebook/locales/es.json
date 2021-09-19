@@ -1,0 +1,45 @@
+{
+  "es": {
+    "classAverage":"Promedio de la clase",
+    "courseProgress":"Progreso del curso",
+
+    "weight":"Porcentaje",
+    "result":"Resulto",
+    "passingRequired":"Aprobación requerida",
+    "showProgressReport":"Mostrar informe de progreso",
+    "hideProgressReport": "Esconder informe de progreso",
+    "test":"Prueba",
+    "assignment":"Tarea",
+    "tests":"Pruebas",
+    "assignments":"Tareas",
+    "passingGrade":"Nota aprobatoria",
+    "yes":"Sí",
+    "no":"No",
+    "missedDueDate":"Se fue la fecha de envío",
+    "excused":"fue perdonado",
+    "studentProgress":"Progreso del estudiante",
+    "grade":"Calificación",
+    "assignmentsTests":"Tareas y pruebas",
+    "finalGrade":"Calificación final",
+    "passed":"Aprobada",
+    "failed":"Falló",
+    "agree":"Estoy de acuerdo",
+    "overrideGrade": "Cambiar calificacione",
+    "overrideFail": "Cambiar aprobación",
+    "gradeAdjustment": "Ajuste de calificacione",
+    "gradeAdjustmentExplanation": "Explicación del ajuste de calificación",
+    "requiredTestNotPassed":"Una o más pruebas requeridas para aprobar el curso no se aprobaron o no se intentaron",
+    "warning":"Una vez que se ha publicado la calificación final, el estudiante ya no puede realizar tareas ni tomar exámenes. Las lecciones permanecerán accesibles hasta la fecha de finalización del curso",
+    "buttons":{
+      "gradebook":"Libro de calificaciones",
+      "postGrade":"Publicar calificación final",
+      "updateFinalGrade":"Actualizar calificación final"
+    },
+    "errors":{
+      "required":"Requerido o deshabilita el ajuste de grado",
+      "finalGrade":"La calificación final debe estar entre {{minValue}} y 100",
+      "droppedOutNoDropDeadline":"El curso no se puede calificar porque el estudiante abandonó y no hay fecha límite para abandonar el curso",
+      "droppedOutDropDeadlineNotYetPassed":"El curso no se puede calificar porque el estudiante abandonó y la fecha límite para abandonar el curso aún no ha pasado"
+    }
+  }
+}

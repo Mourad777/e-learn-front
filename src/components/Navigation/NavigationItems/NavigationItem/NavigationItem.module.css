@@ -1,0 +1,15 @@
+
+.NavigationItem a{
+    color:black;
+    text-decoration: none;
+}
+.NavigationItemDark a{
+    color:white;
+    text-decoration: none;
+}
+.NavigationItem a:hover, .NavigationItemDark a:hover,
+.NavigationItem a:active, .NavigationItemDark a:active,
+.NavigationItem a.active, .NavigationItemDark a.active {
+    color: #2196f3;
+    text-decoration: none;
+}

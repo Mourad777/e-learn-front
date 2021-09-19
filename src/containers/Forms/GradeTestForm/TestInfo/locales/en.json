@@ -1,0 +1,28 @@
+{
+  "en": {
+    "student": "Student",
+    "studentId": "Student ID",
+    "test": "Test",
+    "assignment": "Assignment",
+    "weight": "Weight",
+    "lessonsAllowed": "Lessons allowed",
+    "timer": "Timer",
+    "type": "Type",
+    "quiz": "Quiz",
+    "midterm": "Midterm",
+    "final": "Final",
+    "passingRequired": "Passing required to complete course",
+    "passingGrade": "Passing grade",
+    "availableOnDate": "Available on date",
+    "gradeReleaseDate": "Grade release date",
+    "dueDate": "Due date",
+    "closeDate": "Close date",
+    "lateSubmissionAllowed": "Late submission allowed",
+    "dailyPenalty": "Daily late penalty",
+    "maxLateDaysAllowed": "Late days allowed",
+    "yes":"Yes",
+    "no":"No",
+    "minute":"minute",
+    "plural":{"minute":"minutes"}
+  }
+}

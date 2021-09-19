@@ -1,0 +1,60 @@
+{
+  "es": {
+    "hideActiveStatus": "Ocultar estado activo",
+    "stayLoggedIn": "Permanecer conectado",
+    "chatAllowedOutsideOfficehours": "Permitir el chat fuera del horario de oficina",
+
+    "chatNotifications": "Notificaciones del chat",
+    "chat": "Chat",
+    "tests": "Pruebas",
+    "lessons": "Lecciones",
+    "assignments": "Tareas",
+    "course": "Actualización del curso",
+
+    "notificationsHeader": "Notificaciones de campana",
+    "pushNotificationsHeader":"Notificaciones push",
+    "emailsHeader": "Correos electrónicos",
+    "sendNotificationsHeader": "Enviar notificaciones de campana",
+    "sendEmailsHeader": "Enviar correos electrónicos",
+    "sendPushNotificationsHeader":"Enviar notificaciones de push",
+
+    "dropCoursePenalty": "Requiere una calificación mínima de curso",
+    "dropCourseGrade": "Calificación mínima del curso",
+    "coursePassGrade": "Nota aprobatoria del curso",
+    "enrollAllowedAfterDropCourse": "Se permite la inscripción después de cancelar el curso",
+    "instructorCoursesLimited": "Limitar la cantidad de cursos por profesor",
+    "instructorCoursesLimit": "Límite de cursos por profesor",
+    "approveInstructorAccounts": "Se requiere aprobación para cuentas de profesores",
+    "approveStudentAccounts": "Se requiere aprobación para cuentas de estudiantes",
+    "approveEnrollments": "Se requiere aprobación de inscripción",
+    "contentBlockedCourseEnd": "Bloquear el contenido del curso para estudiantes una vez finalizado el curso",
+    "studentFileSizeLimit": "Límite de tamaño de carga de archivos de estudiante",
+    "instructorFileSizeLimit": "Límite de tamaño de carga de archivos de profesor",
+    "passwordRequiredStartTest": "Se requiere contraseña para iniciar la prueba",
+    "voiceRecordTimeLimit": "Límite de tiempo de grabación de voz (segundos)",
+    "newInstructorAccount": "Cuenta de nuevo profesor",
+    "newStudentAccount": "Cuenta de nuevo estudiante",
+    "enrollRequest": "Inscripción de estudiante",
+    "dropCourse": "Abandona del curso de un estudiante",
+    "platformConfiguration":"Configuración de la plataforma",
+    "privacy": "Privacidad",
+    "allowInstructorAccountDeletion": "Permitir la eliminación de la cuenta del profesor",
+    "allowStudentAccountDeletion": "Permitir la eliminación de la cuenta del estudiante",
+    "errors": {
+      "required": "Requerido",
+      "intGreaterThanZero":"Debe ser un número entero mayor que 0",
+      "positiveInt":"Debe ser un número entero",
+      "betweenOneAndOneThousand":"Debe ser un número entre 1 y 1000",
+      "greaterEqualToZeroLessThanOneHundred":"Debe ser un número mayor o igual que 0 y menor que 100",
+      "greaterThanZeroLessThanEqualOneHundred":"Debe ser un número mayor que 0 y menor o igual que 100",
+      "intGreaterThanEqualOneLessThanEqualOneHundred":"Debe ser un número entero mayor o igual que 1 y menor o igual que 100",
+      "greaterThanEqualPointOneLessThanEqualOneThousand":"Debe ser un número mayor o igual a 0.1 y menor o igual a 1000",
+      "greaterThanEqualOneLessThanEqualOneThousand":"Debe ser un número mayor o igual a 1 y menor o igual a 1000",
+      "dropGradeLessThanPassGrade":"La calificación mínima debe ser menor que la calificación de aprobación",
+      "passGradeMoreThanDropGrade":"La calificación de aprobación debe ser mayor que la calificación mínima"
+    },
+    "buttons": {
+      "updateConfig": "Actualizar configuración"
+    }
+  }
+}

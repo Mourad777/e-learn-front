@@ -1,0 +1,76 @@
+.spacing {
+  margin: 0 5px 20px 5px;
+}
+
+.general {
+  min-width: 260px;
+}
+
+.accountGeneral {
+    min-width: 150px;
+    width: 96%;
+  }
+
+.regularPadding {
+  padding: 1.2em 0 1.2em 0;
+}
+
+.fullWidth {
+  width: 100%;
+  padding-right: 0;
+}
+
+.label {
+  display: block;
+  font-family: "Roboto", "Helvetica";
+  margin-bottom: 10px;
+}
+
+.wrapper div {
+  flex-wrap: wrap;
+  border-radius: 4px;
+  padding: 10px 3px;
+  border-color: rgba(0, 0, 0, 0.23);
+
+}
+.noPaddingWrapperError div {
+  border-radius: 4px;
+  border-color: red;
+  min-height: 40px;
+}
+
+
+.noPaddingWrapper div {
+  border-radius: 4px;
+  border-color: rgba(0, 0, 0, 0.23);
+  min-height: 40px;
+}
+
+.smallWidth div{
+  max-width: 204px;
+}
+
+.timeRangeWrapper div {
+  flex-wrap: wrap;
+  border-radius: 4px;
+  border-color: rgba(0, 0, 0, 0.23);
+  min-height: 40px;
+}
+
+.noPaddingBottom {
+  padding-top: 1.2em;
+}
+
+.errorText {
+  color: #e91313;
+  margin-left: 15px;
+  font-size: 0.75rem;
+  margin-top: 3px;
+  text-align: left;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  display: block;
+  margin-bottom: 30px;
+}

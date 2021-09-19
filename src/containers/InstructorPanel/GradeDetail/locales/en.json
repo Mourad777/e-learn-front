@@ -1,0 +1,37 @@
+{
+  "en": {
+    "buttons": {
+      "grade": "Grade",
+      "editGrade":"Edit grade",
+      "closeAndGrade": "Close and grade",
+      "resetTestFor": "Reset test for {{studentName}}",
+      "resetAssignmentFor": "Reset assignment for {{studentName}}",
+      "excuseTestFor": "Excuse test for {{studentName}}",
+      "excuseAssignment": "Excuse assignment for {{studentName}}",
+      "excuse":"Excuse",
+      "excused":"Excused",
+      "reset": "Reset"
+    },
+    "searchBy": "Search by",
+    "filterTests": "Filter tests",
+    "filterAssignments": "Filter assignments",
+    "student": "Student",
+    "studentId": "Student ID",
+    "test": "Test",
+    "assignment": "Assignment",
+    "toReview": "To review",
+    "graded": "Graded",
+    "all": "All",
+
+    "studentName": "Student name",
+    "studentDob": "Student dob",
+    "submittedOn": "Submitted on",
+    "gradeExpectedOn": "Grade expected on",
+    "lastSavedOn": "Last saved on",
+    "status": "Status",
+    "inProgress": "In progress, was not submitted",
+    "gradePending": "Grade pending",
+    "missed": "Missed",
+    "notAttempted": "Not attempted"
+  }
+}

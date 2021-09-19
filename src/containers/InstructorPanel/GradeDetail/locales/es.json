@@ -1,0 +1,37 @@
+{
+  "es": {
+    "buttons": {
+      "grade": "Calificar",
+      "editGrade":"Editar calificación",
+      "closeAndGrade": "Cerrar y calificar",
+      "resetTestFor": "Reiniciar la prueba para {{studentName}}",
+      "resetAssignmentFor": "Reiniciar la tarea para {{studentName}}",
+      "excuseTestFor": "Perdonar la prueba para {{studentName}}",
+      "excuseAssignment": "Perdonar la tarea para {{studentName}}",
+      "excuse":"Perdonar",
+      "excused":"Fue perdonado",
+      "reset": "Reiniciar"
+    },
+    "searchBy": "Buscar por",
+    "filterTests": "Filtrar pruebas",
+    "filterAssignments": "Filtrar tareas",
+    "student": "Estudiante",
+    "studentId": "Identificación del estudiante",
+    "test": "Prueba",
+    "assignment": "Tarea",
+    "toReview": "Para revisar",
+    "graded": "Calificada",
+    "all": "Todas",
+
+    "studentName": "Nombre del estudiante",
+    "studentDob": "Fecha de nacimiento",
+    "submittedOn": "Enviado el",
+    "gradeExpectedOn": "Se espera calificación en",
+    "lastSavedOn": "Se guardó por última vez el",
+    "status": "Estado ",
+    "inProgress": "En curso, no se envió",
+    "gradePending": "Pendiente de calificación",
+    "missed": "Se perdió la fecha de envío",
+    "notAttempted": "No intentado"
+  }
+}

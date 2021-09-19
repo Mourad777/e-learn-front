@@ -1,0 +1,139 @@
+{
+  "es": {
+    "admin": {
+      "accountActivatedSuccess": "Cuenta activada con éxito",
+      "accountActivatedFail": "Falló la activación de la cuenta",
+      "accountSuspendedSuccess": "Cuenta suspendida con éxito",
+      "accountSuspendedFail": "Falló la suspensión de la cuenta",
+      "accountReactivatedSuccess": "Cuenta reactivada con éxito",
+      "accountReactivatedFail": "Falló la reactivación de la cuenta"
+
+    },
+    "auth": {
+      "loginFail": "Error de inicio de sesion",
+      "fetchUserFail": "Error al recuperar usuario",
+      "accountCreatedSuccess": "Cuenta creada, revise su correo electrónico para un enlace de verificación",
+      "accountCreatedFail": "No se pudo crear la cuenta",
+      "updatedAccountSuccess": "Se actualizó la cuenta",
+      "updatedAccountFail": "No se pudo actualizar la cuenta",
+      "uploadingPictureFail": "Error en subir la foto de perfil",
+      "uploadingDocumentsFail": "Error en subir documentos",
+      "accountVerifySuccess": "Cuenta verificada",
+      "accountVerifyFail": "Error de verificación de cuenta",
+      "verificationLinkSentSuccess": "Se envió un enlace de verificación a su correo electrónico",
+      "verificationLinkSentFail": "Error al enviar un enlace de verificación a su correo electrónico",
+      "passwordResetLinkSentSuccess": "Se envió un enlace a su correo electrónico para restablecer la contraseña",
+      "passwordResetLinkSentFail": "Error al enviar un enlace de restablecimiento de contraseña a su correo electrónico",
+      "passwordChangeSuccess": "Contraseña cambiada",
+      "passwordChangeFail": "No se pudo cambiar la contraseña",
+      "extendingSessionFail": "No se pudo extender la sesión"
+    },
+
+    "course": {
+      "fetchCoursesFail": "Error al recuperar cursos",
+
+      "requestSentSuccess": "Tu solicitud ha sido enviada",
+      "requestSentFailed": "No se pudo enviar la solicitud de inscripción",
+      "enrollmentApproveFail": "Aprobar la inscripción del estudiante falló",
+      "studentDenySuccess": "Se le ha denegado el acceso al estudiante",
+      "studentDenyFail": "No se pudo denegar el acceso",
+      "courseDropSuccess": "El curso fue abandonado",
+      "courseDropFail": "No se pudo abandonar el curso",
+
+      "fetchCourseFail": "No se pudo recuperar el curso",
+      "createCourseSuccess": "El curso fue creado",
+      "updateCourseSuccess": "El curso fue actualizado",
+      "createCourseFail": "Error al crear o actualizar el curso",
+      "uploadThumbnailFail": "Error en subir la miniatura del curso",
+      "changeStateFail": "No se pudo cambiar el estado del curso",
+      "deleteCourseFail": "No se pudo borrar el curso",
+      "gradeCourseFail": "No se pudo calificar el curso",
+
+
+      "updatingResourcesSuccess": "Los recursos fueron actualizados",
+      "updatingResourcesFail": "Error en actualizar los recursos",
+      "uploadingResourcesFail":"Error en subir el archivo de recursos"
+    },
+    "test": {
+      "retrieveTestFail": "No se pudo recuperar la prueba o la tarea",
+      "retrieveTestFailDatePassed": "La prueba que estaba en progreso se cerró y se envió",
+
+      "fetchTestResultsFail": "No se pudó obtener los resultados de la prueba",
+      "uploadAudioFail": "Error en subir el archivo de audio",
+      "studentTestSavedSuccess": "Se guardó",
+      "studentTestSubmittedSuccess": "Fue enviado",
+
+
+      "creatingFail": "No se pudo crear",
+      "updatingFail": "No se pudo actualizar",
+
+
+      "uploadingTestResourcesFail": "Error en subir el archivo de recursos de texto",
+      "uploadingAudioResourcesFail": "Error en subir el archivo de recursos de audio",
+      "uploadingVideoResourcesFail": "Error en subir el archivo de recursos de video",
+      "uploadingFillblanksAudioFail": "Error en subir el archivo de audio para llenar los espacios vacíos",
+      "uploadingSpeakingQuestionAudioFail": "Error en subir el archivo de audio para la pregunta de sección oral",
+      "uploadingSpeakingAnswerAudioFail": "Error en subir el archivo de audio para la respuesta de sección oral",
+
+      "testDeleteSuccess": "Prueba eliminada",
+      "testDeleteFail": "No se pudo borrar la prueba",
+      "closeTestFail": "No se pudo cerrar la prueba",
+      "testResetSuccess": "La prueba se reinició",
+      "testResetFail": "No se pudo restablecer la prueba",
+
+      "saveGradesSuccess": "Se guardó la calificación",
+      "postGradesSuccess": "Se subió la calificación",
+      "saveGradesFail": "No se pudo guardar la calificación",
+      "postGradesFail": "No se pudo subir la calificación",
+      "uploadFeedbackAudioFail": "Error en subir el archivo de audio de comentarios"
+    },
+    "question": {
+      "fetchQuestionBankFail":"Error al recuperar el banco de preguntas",
+      "createQuestionFail": "No se pudo crear la pregunta",
+      "updateQuestionFail": "No se pudo actualizar la pregunta",
+
+      "uploadingFillblanksAudioFail": "Error en subir el archivo de audio para llenar los espacios vacíos",
+
+      "uploadingSpeakingQuestionAudioFail": "Error en subir el archivo de audio para la pregunta de sección oral",
+      "uploadingSpeakingAnswerAudioFail": "Error en subir el archivo de audio para la respuesta de sección oral",
+      "deleteQuestionSuccess": "Pregunta eliminada",
+      "deleteQuestionFail": "No se pudo borrar la pregunta"
+    },
+    "lesson": {
+      "markSlideFail": "Failed to mark slide as seen",
+
+      "lessonCreatedFail": "No se pudo crear la lección",
+      "lessonUpdatedFail": "No se pudo actualizar crear la lección",
+      "uploadingAudioFail": "Error en subir el archivo de audio",
+      "uploadingVideoFail": "Error en subir el archivo de video",
+      "lessonRetrieveFail": "Recuperar la lección falló",
+      "lessonDeleteSuccess": "Lección eliminada",
+      "lessonDeleteFail": "No se pudo borrar la lección"
+    },
+    "modules": {
+      "retrieveModulesFailed": "No se pudieron recuperar los módulos",
+      "updateModulesFailed": "Error al crear o actualizar los módulos"
+    },
+    "config": {
+      "fetchConfigFail": "No se pudo recuperar la configuración",
+      "updatedConfigFail": "No se pudo actualizar la configuración",
+      "updatedConfigSuccess": "Se actualizó la configuración"
+    },
+    "notifications": {
+      "retrieveNotificationsFail": "No se pudieron recuperar las notificaciones",
+      "markNotificationsFail": "No se pudo marcar la notificación como se ve"
+    },
+    "files": {
+      "deleteFilesFailed": "No se pudieron borrar los archivos"
+    },
+    "student": {
+      "retrieveStudentsFail": "No se pudo recuperar los estudiantes"
+    },
+    "instructor": {
+      "retrieveInstructorsFail": "Error en recuperar los profesores"
+    },
+    "transactions": {
+      "intentCreditcardPaymentFail": "Falló el pago por tarjeta de credito"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "es": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "dob": "Fecha de nacimiento",
+    "id": "Identificación",
+    "password": "Contraseña",
+    "currentPassword": "Contraseña actual",
+    "newPassword": "Nueva contraseña",
+    "confirmPassword": "Confirma la nueva contraseña",
+    "documentType": "Tipo de documento",
+    "governmentId": "Identificación de gobierno",
+    "birthCertificate": "Certificado de nacimiento",
+    "transcript": "Boleta de calificaciones",
+    "proofLegalStatus": "Prueba de estatus legal",
+    "cv": "Curriculum vitae (cv)",
+    "proofTestScores": "Prueba de puntajes de exámenes",
+    "letterReference": "Carta de referencia",
+    "statementPurpose": "Declaración de propósito",
+    "other": "Otra",
+
+
+   
+    "accountType": "Tipo de cuenta",
+    "forgotPassword": "¿Ha olvidado su contraseña?",
+    "enterEmailToResetPassword": "Ingrese el correo electrónico asociado con la cuenta, se enviará un enlace para restablecer su contraseña a su correo electrónico.",
+    "resetPassword":"Restablecer la contraseña",
+    "passwordReset":"Restablecimiento de contraseña",
+    "student": "Estudiante",
+    "instructor": "Profesor",
+    "errors": {
+      "required": "Requerido",
+      "enterFirstName": "Debe ingresar su nombre",
+      "enterLastName": "Debe ingresar su apellido",
+      "enterFirstNameOnlyAlpha":"Su nombre solo debe contener letras y espacios",
+      "enterLastNameOnlyAlpha":"Su apellido solo debe contener letras y espacios",
+      "enterDateOfBirth":"Debe ingresar su fecha de nacimiento",
+      "makeSelection": "Debe hacer una selección",
+      "enterValidEmail":"Debe ingresar un correo electrónico válido",
+
+      "requiredOrSelectKeepPassword":"Requerido o seleccione mantener la contraseña actual",
+      "requiredOrSelectRemovePassword":"Requerido o seleccione quitar la contraseña",
+      "passwordConditions": "La contraseña debe contener al menos 8 caracteres y debe contener al menos 1 de los siguientes caracteres: 1 mayúscula, 1 minúscula, 1 carácter especial (!, @, #, $,%, ^, &, *) y 1 carácter numérico",
+
+      "passwordMismatched": "Las contraseñas no coinciden",
+
+      "selectDocAndType": "Seleccione un documento y un tipo o haga clic en eliminar documento",
+      "selectPdfWordJpg":"Seleccione un archivo pdf, documento de Word o imagen jpeg para cargar o haga clic en eliminar documento",
+      "docMustBeLessThan":"El documento seleccionado debe tener menos de",
+      "mustSelectDocType":"Debe seleccionar un tipo de documento",
+      "correctTheFormAtDocument":"Corrija el formulario en el documento",
+      "selectDocTypeAndDoNotExceed":"seleccione un documento y un tipo y asegúrese de que el tamaño del archivo no exceda {{size}} MB",
+      "correctForm": "Corrija el formulario para continuar"
+    },
+    "buttons": {
+      "uploadProfilePicture": "Subir foto de perfil",
+      "updateProfilePicture": "Actualizar foto de perfil",
+      "clearProfilePicture": "Eliminar foto de perfil",
+      "documents": "Documentos",
+      "saveChanges": "Guardar cambios",
+      "edit": "Editar",
+      "next": "Siguiente",
+      "back": "Atrás",
+      "uploadDocument": "Subir documento",
+      "updateDocument": "Actualizar documento",
+      "addDocument": "Añadir documento",
+      "removeDocument": "Eliminar documento",
+      "keepPassword": "Mantener la contraseña actual",
+      "setNewPassword": "Establecer nueva contraseña",
+      "removePassword": "Quitar contraseña"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "en": {
+    "multiplechoicequestions": "Multiple-choice questions",
+    "essayquestions": "Essay questions",
+    "speakingquestions": "Speaking questions",
+    "fillintheblanksquestions": "Fill-in-the-blanks questions",
+
+    "filterQuestions": "Filter questions",
+    "difficulty": "Difficulty",
+    "language": "Language",
+    "tag": "Tag",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "buttons": {
+      "createQuestion": "Create question",
+      "resetFilters": "Reset filters"
+    }
+  }
+}

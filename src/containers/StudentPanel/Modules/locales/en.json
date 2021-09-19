@@ -1,0 +1,13 @@
+{
+    "en": {
+      "module": "Module",
+      "topics": "Topics",
+      "subjects": "Subjects",
+      "lessons": "Lessons",
+      "tests": "Tests",
+      "assignments": "Assignments",
+      "quiz": "Quiz",
+      "midterm": "Midterm",
+      "final": "Final"
+    }
+}

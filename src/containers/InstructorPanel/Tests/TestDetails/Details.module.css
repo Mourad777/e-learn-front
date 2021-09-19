@@ -1,0 +1,140 @@
+.button {
+	margin-bottom: 20px;
+}
+
+.GreenText {
+    color: #4caf50
+}
+
+.RedText {
+    color: #F44336
+}
+
+.Inline {
+    display: inline;
+}
+
+.center {
+	text-align: 'center';
+}
+
+.TestTypeRadio {
+    position: relative;
+    display: inline;
+    top: 21px;
+    left: -12px;
+}
+
+.ListHorizontalDisplay {
+    display: inline-block;
+}
+
+.TestFormList {
+	list-style-type:none;
+	padding:0;
+	overflow: hidden;
+}
+
+.Editor {
+    border: #2196f3 solid 1px;
+    border-radius: 2px;
+    width: 99%;
+	margin:0 auto 10px auto;
+}
+
+.greenIcon {
+	color:#3D9970;
+}
+
+.redIcon {
+	color:#FF4136;
+}
+
+@media(min-width:700px) {
+    .Editor {
+		max-width: 600px;
+		margin:0 auto 10px auto;
+    }
+}
+
+.CorrectAnswerHighlight {
+    background-color: #2196f3;
+    color: white;
+}
+
+
+.BlankPreview {
+    color:#2196f3;
+    font-weight: bold;
+}
+.InputField {
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+}
+
+.FullWidth {
+	width: 100%;
+}
+
+.InputFieldBottomMargin {
+	margin-bottom: 10px;
+}
+
+.InputField:focus {
+    border: 1px solid #2196f3;
+}
+
+.SelectField{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+}
+
+
+.SelectField:focus{
+	border: 1px solid #2196f3;
+}
+
+.Pointer {
+	cursor: pointer;
+}
+
+.audioPlayerPreview {
+    max-width: 90px;
+	max-height: 20px;
+	background-color: blue;
+}
+
+
+
+
+
+
+
+/* ---------------------- */
+
+.SlideBackground {
+	background: white;
+	border-radius: 3px;
+	word-break: break-all;
+	padding: 1px;
+
+}
+
+
+
+
+

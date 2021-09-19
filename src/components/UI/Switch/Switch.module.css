@@ -1,0 +1,20 @@
+.Inline {
+    display: inline;
+}
+
+/* .Label {
+    margin: 0 0.5em;
+} */
+
+.Margin {
+    margin-bottom: 10px;
+}
+
+.MarginNoLabel {
+    margin-bottom: 10px;
+    width: 60px;
+}
+
+.noMargin{
+    margin: 0 !important;
+}

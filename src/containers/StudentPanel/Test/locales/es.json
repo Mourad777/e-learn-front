@@ -1,0 +1,34 @@
+{
+  "es": {
+    "multiplechoicesection": "Sección opción multiple",
+    "essaysection": "Sección ensayo",
+    "speakingsection": "Sección oral",
+    "fillintheblankssection": "Sección llenar los espacios vacíos",
+    "assignmentResources": "Recursos de tarea",
+    "testResources": "Recursos de prueba",
+    "question": "Pregunta",
+    "lessThanFiveMin":"Quedan menos de 5 minutos, repase sus respuestas y guarde su prueba",
+    "lessThanOneMin":"Queda menos de 1 minuto, guarde su prueba",
+    "testClosesAt":"La prueba cierra a {{laOrLas}} {{time}}",
+    "errors": {
+      "questionsUnanswered": "Has dejado algunas preguntas sin respuesta",
+      "playQuestion": "Escuchar pregunta"
+    },
+    
+    "buttons": {
+      "save": "Guardar",
+      "exit": "Salir",
+      "submit": "Enviar",
+      "submitAnyway": "Enviar de todos modos",
+      "questions": "Preguntas",
+      "nextSection": "Siguiente sección",
+      "previousSection": "Sección previa",
+      "recordAnswer": "Grabar respuesta",
+      "playQuestion": "Escuchar pregunta"
+
+    },
+    "fields":{
+      "selectAnswer":"Selecciona la respuesta correcta"
+    }
+  }
+}

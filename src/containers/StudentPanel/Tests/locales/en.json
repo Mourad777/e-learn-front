@@ -1,0 +1,34 @@
+{
+    "en": {
+      "continueAssignment": "Continue assignment",
+      "assignmentIsDueOn": "Assignment is due on",
+      "assignmentWasDueOn": "Assignment was due on",
+      "assignmentWillOpenOn": "Assignment opens on",
+      "assignmentHasOpenedOn": "Assignment opened on",
+      "testWillOpenOn": "Test opens on",
+      "testHasOpenedOn": "Test opened on",
+      "testClosesOn": "Test closes on",
+      "testClosedOn": "Test closed on",
+      "wasDueOn": "Was due on",
+      "DueOn": "Due on",
+      "latePenalty": "late penalty per day",
+      "closesOn": "Closes on",
+      "availableOn": "Available on",
+      "missedDeadline": "Missed the deadline to submit",
+      "latePenaltyAccumulated": "Late penalty accumulated",
+      "startTest":"Start test",
+      "startAssignment":"Start assignment",
+      "quiz": "Quiz",
+      "midterm": "Midterm",
+      "final": "Final",
+      "excused":"excused",
+
+      "notCompletedTests":"You have not completed any tests",
+      "notCompletedAssignments":"You have not completed any assignments",
+      "gradesReleaseOn":"Grades will be released on",
+      "gradePending":"Grade pending",
+      "reviewTest":"Review test",
+      "reviewAssignment":"Review assignment",
+      "summary":"Summary"
+    }
+}

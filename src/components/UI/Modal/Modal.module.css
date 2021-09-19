@@ -1,0 +1,54 @@
+.Modal {
+    position: fixed;
+    z-index: 500 !important;
+    /* background-color: #F8F8F8; */
+    width: 96%;
+    border-radius: 2px;
+    left: 2%;
+    top: 15%;
+    box-sizing: border-box;
+    transition: opacity 0.3s ease-out;
+    overflow-y: auto;
+    max-height: 80vh;
+    overflow-x: hidden;
+}
+
+.ModalBackgroundLight {
+    background-color: #F8F8F8;
+}
+
+.ModalBackgroundDark {
+    background-color: #424242;
+}
+
+
+
+.Header {
+    width: 100%;
+    color: white;
+    background: #2196f3;
+    padding: 6px;
+}
+
+.HeaderDark {
+    width: 100%;
+    color: white;
+    background: #01579b;
+    padding: 6px;
+}
+
+.Main {
+    padding: 6px;
+}
+
+@media (min-width: 600px) {
+    .Large {
+        width: '90%';    
+    }
+    .Regular {
+        width: 500px;
+        left: 50%;
+        margin-left: -250px;
+    }
+
+}

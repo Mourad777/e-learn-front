@@ -1,0 +1,13 @@
+{
+  "es": {
+    "module": "Modulo",
+    "topics": "Temas",
+    "subjects": "Sujetos",
+    "lessons": "Lessons",
+    "tests": "Pruebas",
+    "assignments": "Tareas",
+    "quiz": "Mini test",
+    "midterm": "Examen de mitad de período",
+    "final": "Examen final"
+  }
+}

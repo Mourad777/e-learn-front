@@ -1,0 +1,37 @@
+{
+  "en": {
+    "language":"Language of teaching",
+    "courseInfo":"Course info",
+    "courseName":"Course name",
+    "instructor":"Instructor",
+    "instructorEmail":"Instructor e-mail",
+    "coursePassGrade":"Passing grade",
+    "gradeIfCourseDropped":"Grade if course dropped after drop deadline",
+    "importantDates":"Important Dates",
+    "enrollmentStart":"Enrollement start date",
+    "enrollmentDeadline":"Enrollement deadline",
+    "courseStartDate":"Course start date",
+    "courseEndDate":"Course end date",
+    "dropDeadline":"Drop deadline",
+    "from":"from",
+    "to":"to",
+    "coursePrereqs":"Course prerequisites",
+    "noCoursePrereqs":"This course has no prerequisites",
+    "noOfficeHours":"The instructor has not posted any office hours",
+    "weeklyOfficehours":"Weekly office hours",
+    "otherOfficehours":"Other office hours",
+    "askQuestionsViaChat":"You will be able to ask questions via chat during these times",
+    "youAreRequesting":"You are requesting to enroll in ",
+    "accessWhenApproved":"You will get access to the course once the instructor approves your request",
+    "agree":"I agree",
+    "cost":"Cost",
+    "sendBitcoinToAddress":"Please send {{amount}} bitcoin to {{address}}",
+    "or":"or",
+    "addressExpiration":"Address expires on {{expiration}}",
+    "buttons":{
+      "submitRequest":"Submit request",
+      "payWithBitcoin":"Pay with Bitcoin",
+      "payWithCredit":"Pay with credit card"
+    }
+  }
+}

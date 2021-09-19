@@ -1,0 +1,12 @@
+{
+  "es": {
+    "lesson": "Lección",
+    "lessons": "Lecciónes",
+    "availableOn": "Disponible el",
+    "completed":"Completada",
+    "buttons":{
+      "next":"Siguiente",
+      "back":"Atrás"
+    }
+  }
+}

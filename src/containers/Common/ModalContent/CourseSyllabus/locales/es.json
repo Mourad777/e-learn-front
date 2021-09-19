@@ -1,0 +1,37 @@
+{
+  "es": {
+    "language":"El idioma de enseñanza",
+    "courseInfo":"Información del curso",
+    "courseName":"Nombre del curso",
+    "instructor":"Profesor",
+    "instructorEmail":"Correo electrónico del profesor",
+    "coursePassGrade":"Calificación aprobatoria",
+    "gradeIfCourseDropped":"Calificación si el curso se canceló después de la fecha límite",
+    "importantDates":"Fechas importantes",
+    "enrollmentStart":"Fecha de inicio de la inscripción",
+    "enrollmentDeadline":"Fecha de finalización de la inscripción",
+    "courseStartDate":"Fecha de inicio del curso",
+    "courseEndDate":"Fecha de finalización del curso",
+    "dropDeadline":"Fecha límite para abandonar",
+    "from":"de",
+    "to":"a",
+    "coursePrereqs":"Prerrequisitos del curso",
+    "noCoursePrereqs":"Este curso no tiene prerrequisitos",
+    "noOfficeHours":"No hay ningún horario de oficina publicado",
+    "weeklyOfficehours":"Horas de oficina semanales",
+    "otherOfficehours":"Horas de oficina en fechas específicas",
+    "askQuestionsViaChat":"Podrá hacer preguntas a través del chat durante estos horarios",
+    "youAreRequesting":"Está solicitando inscribirse en ",
+    "accessWhenApproved":"Tendrá acceso al curso una vez que el profesor apruebe tu solicitud",
+    "agree":"Estoy de acuerdo",
+    "cost":"Costo",
+    "sendBitcoinToAddress":"Por favor enviar {{amount}} bitcoin a {{address}}",
+    "or":"o",
+    "addressExpiration":"La dirección vence el {{expiration}}",
+    "buttons":{
+      "submitRequest":"Enviar solicitud",
+      "payWithBitcoin":"Pagar con Bitcoin",
+      "payWithCredit":"Pagar con tarjeta de credito"
+    }
+  }
+}

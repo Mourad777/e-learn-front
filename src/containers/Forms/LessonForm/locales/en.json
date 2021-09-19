@@ -1,0 +1,32 @@
+{
+  "en": {
+    "slide": "Slide",
+    "lessonCustomization":"Lesson customization",
+    "errors": {
+      "required": "Required",
+      "noDuplicateLessonNames":"There is already a lesson with this name in this course",
+      "availableOnDateInCourseDuration": "The available on date must be within the course duration",
+      "audioCannotExceed": "The audio file size cannot exceed",
+      "videoCannotExceed": "The video file size cannot exceed",
+      "uploadOrDisable": "Upload a video or disable video content",
+      "correctForm":"Correct the form to continue"
+    },
+
+    "buttons": {
+      "publish": "Publish",
+      "update": "Update",
+      "addSlide": "Add slide",
+      "removeSlide": "Remove slide",
+      "selectAudioFile": "Select audio file",
+      "selectVideoFile": "Select video file"
+    },
+
+    "fields": {
+      "lessonName": "Lesson name",
+      "publish": "Publish",
+      "availableOnDate": "Available on date",
+      "videoContent": "Video from file",
+      "audioFromFile": "Audio from file"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "en": {
+    "buttons": {
+      "updateResources": "Update resources",
+      "select":"Select",
+      "addResource": "Add resource",
+      "resourceName": "Resource name"
+    },
+    "errors":{
+      "giveResourceName":"Must give the resource a name",
+      "selectResource":"You must select a resource or remove the field",
+      "fileSize":"The file must be less than or equal to {{size}}"
+    }
+  }
+}

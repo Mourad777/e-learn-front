@@ -1,0 +1,21 @@
+{
+  "es": {
+    "multiplechoicequestions": "Preguntas de opción múltiple",
+    "essayquestions": "Preguntas de ensayo",
+    "speakingquestions": "Preguntas oral",
+    "fillintheblanksquestions": "Preguntas para llenar los espacios en blanco",
+
+    "filterQuestions": "Filtrar preguntas",
+    "difficulty": "Dificultad",
+    "language": "Idioma",
+    "tag": "Etiqueta",
+    "easy": "Facil",
+    "medium": "Media",
+    "hard": "Difícil",
+
+    "buttons": {
+      "createQuestion": "Crear pregunta",
+      "resetFilters": "Restablecer filtros"
+    }
+  }
+}

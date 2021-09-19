@@ -1,0 +1,19 @@
+{
+  "es": {
+    "assignment":"tarea",
+    "final":"examen final",
+    "midterm":"examen de mitad de período",
+    "quiz":"test",
+    "ofTheassignment":"de la tarea",
+    "ofThefinal":"del examen final",
+    "ofThemidterm":"del examen de mitad de período",
+    "ofThequiz":"del test",
+    "officehours":"Horas de oficina de {{start}} a {{end}}",
+    "dropDeadline":"Fecha límite para abandonar {{courseName}} sin penalización",
+    "testAvailableOnDate":"La {{testType}} {{testName}} estará disponible",
+    "testDueDate":"La {{testType}} {{testName}} vencerá",
+    "testGradeReleaseDateStudent":"Las calificaciones {{ofTheTestType}} {{testName}} serán publicadas",
+    "lessonAvailableOnDate":"La lección {{lessonName}} estará disponible",
+    "testGradeReleaseDateInstructor":"Las calificaciones {{ofTheTestType}} {{testName}} se vencerán"
+  }
+}

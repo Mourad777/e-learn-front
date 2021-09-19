@@ -1,0 +1,46 @@
+/* @media (max-width: 600px) {
+    .withDrawer {
+        margin-left: -150px;
+        left:50%;
+    }
+}
+
+ */
+
+.alert {
+    background-color: white;
+    color: rgb(208, 0, 0);
+    border: 1px solid rgb(208, 0, 0);
+    border-radius: 4px;
+    padding: 10px;
+    z-index: 501;
+
+    position: fixed;
+    width: 250px;
+    transition: opacity 0.3s ease-out;
+    left: 50%;
+    top: 35%;
+    box-sizing: border-box;
+    margin-left: -125px;
+  }
+
+  .refreshBlocked {
+    opacity: 0.7;
+    pointer-events: none;
+  }
+  
+  /* .withDrawer {
+    margin-left: -125px;
+  }
+  
+  .noDrawer {
+    margin-left: -125px;
+  } */
+
+  @media (min-width: 600px) {
+      .alert {
+          margin-left: -25px;
+      }
+  } 
+  
+  

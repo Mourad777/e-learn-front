@@ -1,0 +1,58 @@
+{
+    "en": {
+      "signIn": "Sign in",
+      "signUp": "Sign up",
+      "email": "E-mail",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "accountType": "Account type",
+      "dob": "Date of birth",
+      "language": "Language",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "forgotPassword": "Forgot password?",
+      "resetPassword": "Reset password",
+      "student": "Student",
+      "instructor": "Instructor",
+      "accountVerification": "Account verification",
+      "alreadyVerified": "The account is already verified, you can login",
+      "enterEmailToResetPassword": "Enter the email associated with the account, a link to reset your password will be sent to your email.",
+      "or":"or",
+      
+      "errors": {
+        "makeSelection": "You must make a selection",
+        "required": "Required",
+        "enterFirstName": "You must enter your first name",
+        "enterLastName": "You must enter your last name",
+        "enterFirstNameOnlyAlpha":"Your first name must only contain letters and spaces",
+        "enterLastNameOnlyAlpha":"Your last name must only contain letters and spaces",
+        "passwordMismatched": "Password mismatched",
+        "passwordConditions": "Password must contain atleast 8 characters and must contain atleast 1 of the following characters: 1 uppercase, 1 lowercase, 1 special character(!,@,#,$,%,^,&,*), and 1 numeric character",
+        "enterDateOfBirth":"You must enter your date of birth",
+        "enterValidEmail":"Enter a valid e-mail",
+        "studentNoAccount":"No student account found with this e-mail",
+        "instructorNoAccount":"No instructor account found with this e-mail",
+        "notVerifiedCheckEmail":"Your account has not yet been verified, check your e-mail",
+        "wrongPassword":"Wrong password",
+        "noPasswordCreated":"You havn't set up a password yet, login with your Google account",
+        "alreadyVerified":"Your account is already verified, you can sign in",
+        "emailTaken":"This e-mail is already taken",
+        "accountSuspended":"Your account has been suspended",
+        "tokenExpired":"The time to verify your e-mail has expired",
+        "noAccountWithEmail":"There is no account with the email provided",
+        "noAdminAccount":"There must be at least 1 instructor account in order to open a student account"
+      },
+      "buttons": {
+        "next": "Next",
+        "back": "Back",
+        "submit": "Submit",
+        "switchToSignIn": "Switch to sign in",
+        "switchToSignUp": "Switch to sign up",
+        "resendEmail": "Resend account verification e-mail",
+        "returnToSignIn": "Return to sign in",
+        "sendLink": "Send link",
+        "verifyAccount": "Verify account",
+        "continueWithGoogle": "Continue with Google"
+      }
+    }
+}

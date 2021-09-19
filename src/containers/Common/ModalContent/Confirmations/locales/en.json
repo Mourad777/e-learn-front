@@ -1,0 +1,112 @@
+{
+  "en": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "E-mail",
+    "dob": "Date of birth",
+    "studentId": "Student ID",
+    "lastLogin":"Last login",
+    "courseProgress":"Course progress",
+    "documents":"Documents",
+    "next":"Next",
+    "back":"Back",
+    "governmentId": "Government issued ID",
+    "birthCertificate": "Birth certificate",
+    "transcript": "Transcript",
+    "proofLegalStatus": "Proof of legal status",
+    "cv": "Curriculum vitae (cv)",
+    "proofTestScores": "Proof of test scores",
+    "letterReference": "Letter of reference",
+    "statementPurpose": "Statement of purpose",
+    "other": "Other",
+    "enrollCourse":{
+      "language":"El idioma de enseñanza",
+      "payAndRequest":"Pay and submit request",
+      "pay":"Pay"
+    },
+    "enrollConfirm":{
+      "decision":"Decision",
+      "allow":"Allow access",
+      "deny":"Deny access",
+      "allowResubmission":"Allow resubmission",
+      "reason":"Reason for denied access",
+      "submit":"Submit"
+    },
+    "dropCourse":{
+      "youAreDropping":"You are dropping",
+      "deadlineNotYet":"The deadline to drop the course has not yet passed therefore the course will not appear on your transcript, and will not affect your gpa.",
+      "deadlinePassed":"The deadline to drop the course has passed, you will be notified when your grade is released. Your grade will consist of the tests and assignments that you submitted.",
+      "youCanReenroll":"You can still re-enroll in the course before the enrollment deadline.",
+      "youCanNotReenroll":"You will not be able to re-enroll into the course since the enrollment deadline has passed.",
+      "agree":"I agree",
+      "dropCourse":"Drop course",
+      "noEnroll":"You will not be able to re-enroll in the course."
+    },
+    "deleteCourse":{
+      "youAreDeleting":"You are deleting",
+      "deletingCourseWillDeleteContent":"Deleting the course will also delete all of its tests, lessons, and assignments",
+      "studentsNoAccess":"Students will no longer have access to the course materials",
+      "courseRemovedFromRecord":"The course will be removed from students record",
+      "agree":"I agree",
+      "deleteCourse":"Delete Course",
+      "deactivateAlternative":"Alternatively you can de-activate the course",
+      "courseRemainsAccessibleToYou":"The course will remain accessible to you but not the students",
+      "wontEraseContent":"It will not erase the course content but students will not have access to the course material",
+      "deactivate":"De-activate Course"
+    },
+    "deleteTest":{
+      "deleteAssignment":"Delete assignment",
+      "deleteTest":"Delete test",
+      "assignmentGradeRemoved":"Students who have taken the assignment will have their grade removed",
+      "testGradeRemoved":"Students who have taken the test will have their grade removed",
+      "questionBankNotAffected":"The question bank will not be affected",
+      "agree":"I agree"
+    },
+    "deleteLesson":{
+      "youAreDeleting":"You are deleting",
+      "noAccess":"Students will no longer have access to the content in this lesson",
+      "deleteLesson":"Delete lesson",
+      "agree":"I agree"
+    },
+    "takeTest":{
+      "saveOften":"Save your test often. If you exit the browser, you can still take the test as long as the timer has not expired. Your answers will be restored to the last time you saved the test",
+      "startTest":"Start test",
+      "startAssignment":"Start assignment",
+      "agree":"I agree",
+      "loginPassword":"Login password",
+      "required":"Required",
+      "wrongPassword":"Wrong password",
+      "mc": "Multiple-choice",
+      "mcShort": "Mc",
+      "essay": "Essay",
+      "speaking": "Speaking",
+      "fillblanks": "Fill-in-the-blanks",
+      "fillblanksShort": "Fill-blanks",
+      "reviewTest":"Review test",
+      "reviewAssignment":"Review assignment",
+      "testNotAvailable":"The test is not yet available",
+      "assignmentNotAvailable":"The assignment is not yet available",
+      "testPastDue":"The test is past due and is now closed",
+      "gradePending":"Grade pending",
+      "testExcused":"The test is excused",
+      "assignmentExcused":"The assignment is excused",
+      "assignmentPastDue":"The assignment is past due and is now closed",
+      "setUpPassword":"You must set up a password in the account panel before you can start the test"
+      
+    },
+    "resetTest":{
+      "resetingAssignment":"You are reseting assignment",
+      "resetingTest":"You are reseting test",
+      "willBeAbleTest":"will be able to take the test again",
+      "willBeAbleAssignment":"will be able to take the assignment again",
+      "gradeWillBeDeleted":"The current grade or progress will be deleted",
+      "everyStudentCanRetakeTest":"Every student in the course will be able to re-take the test and you will be able to make changes to the test",
+      "everyStudentCanRetakeAssignment":"Every student in the course will be able to re-take the assignment and you will be able to make changes to the assignment",
+      "studentsGradeWillBeErased":"The student's grade will be erased",
+      "resetTest":"Reset test",
+      "resetAssignment":"Reset assignment",
+      "reason":"Reason",
+      "agree":"I agree"
+    }
+  }
+}

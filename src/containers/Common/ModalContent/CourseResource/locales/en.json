@@ -1,0 +1,10 @@
+{
+  "en": {
+    "progressReport": "Progress report",
+    "increaseCapacity": "Increase student capacity to allow student in the course",
+    "buttons": {
+      "submit": "Submit",
+      "showReport": "Show progress report"
+    }
+  }
+}

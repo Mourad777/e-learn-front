@@ -1,0 +1,29 @@
+.gayceY {
+  background-color: transparent !important;
+  min-height: 0 !important;
+}
+
+.tier-top {
+  background-color: white;
+  border-radius: 5px;
+}
+
+#chat {
+  max-height: calc(100vh - 300px);
+  overflow: scroll;
+  padding: 16px;
+  overflow-x: hidden;
+}
+
+@media (min-width: 600px) {
+  #chat {
+    max-height: calc(100vh - 300px);
+  }
+}
+
+/* max-height: calc(100vh - 128px); */
+
+
+.content {
+  margin-bottom: 8px;
+}

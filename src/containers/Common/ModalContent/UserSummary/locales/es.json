@@ -1,0 +1,24 @@
+{
+  "es": {
+    "progressReport": "Informe de progreso",
+    "increaseCapacity":"Aumenta la capacidad de los estudiantes para permitirles a participar en el curso.",
+    "suspendAccount": "Suspender la cuenta",
+    "approveAccount": "Activar la cuenta",
+    "activateAccount": "Reactivar la cuenta",
+    "pendingApproval": "Aprobación pendiente",
+    "suspended": "Cuenta suspendida",
+    "reason": "Razón",
+    "buttons":{
+      "submit":"Enviar",
+      "showReport":"Mostrar informe de progreso",
+      "hideReport": "Esconder informe de progreso"
+    },
+    "status": {
+      "droppedOut": "Dejó el curso",
+      "pendingApproval": "Inscripción al curso está pendiente de aprobación",
+      "accessDenied": "Se deniega el acceso al curso",
+      "accountSuspended": "Cuenta suspendida",
+      "pendingActivation": "Activación de cuenta pendiente"
+    }
+  }
+}

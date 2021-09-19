@@ -1,0 +1,11 @@
+{
+  "en": {
+    "test":"Test",
+    "assignment":"Assignment",
+    "yourProgress":"Your progress",
+    "studentProgress":"Student progress",
+    "grade":"Grade",
+    "classAverage":"Class average",
+    "assignmentsTests":"Assignments and tests"
+  }
+}

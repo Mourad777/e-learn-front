@@ -1,0 +1,11 @@
+.react-date-picker__calendar {
+  z-index: 3 !important;
+}
+
+.react-datetime-picker__calendar {
+  z-index: 3 !important;
+}
+
+.react-datetimerange-picker__calendar {
+  z-index: 3 !important;
+}

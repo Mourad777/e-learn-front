@@ -1,0 +1,59 @@
+.Auth {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: white;
+}
+
+.errorMessage {
+    color: rgb(194, 0, 0);
+}
+
+.radioGroupAlignment {
+    margin-top: 20px;
+    margin-left:20px;
+    text-align: left;
+}
+
+.ButtonContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.ForgotPassword {
+   color:#2196f3;
+   text-align: left;
+   cursor: pointer;
+   margin:15px 0;
+}
+.ResendVerificationEmail {
+    color:#2196f3;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom:15px;
+    padding: 5px;
+    border: #2196f3 2px solid;
+    border-radius: 2px;
+ }
+
+@media (min-width: 500px) {
+    .Auth {
+        margin: 10px auto;
+        width: 80%;
+        box-shadow: 0 2px 3px #ccc;
+        border: 1px solid #eee;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+}
+
+@media (min-width: 600px) {
+    .Auth {
+        width: 400px;
+    }
+}
+
+.Dob {
+    vertical-align: sub !important;
+    padding: 20px !important;
+}

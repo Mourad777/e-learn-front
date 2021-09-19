@@ -1,0 +1,34 @@
+{
+  "es": {
+    "continueAssignment": "Continuar tarea",
+    "assignmentIsDueOn": "La tarea vence el",
+    "assignmentWasDueOn": "La tarea Vencía el",
+    "assignmentWillOpenOn": "La tarea se abre el",
+    "assignmentHasOpenedOn": "La tarea se abrió el",
+    "testWillOpenOn": "La prueba se abre el",
+    "testHasOpenedOn": "La prueba se abrió el",
+    "testClosesOn": "La prueba se cierra",
+    "testClosedOn": "La prueba cerró el",
+    "wasDueOn": "Vencía el",
+    "DueOn": "Vence el",
+    "latePenalty": "penalización por retraso diario",
+    "closesOn": "Se cierra",
+    "availableOn": "Disponible el",
+    "missedDeadline": "Se perdió la fecha de envío",
+    "latePenaltyAccumulated": "Penalización tardía acumulada",
+    "startTest":"Iniciar prueba",
+    "startAssignment":"Iniciar tarea",
+    "quiz": "Test",
+    "midterm": "Examen de mitad de período",
+    "final": "Examen final",
+    "excused":"Fue perdonado",
+    
+    "notCompletedTests":"No ha completado ninguna prueba",
+    "notCompletedAssignments":"No ha completado ninguna tarea",
+    "gradesReleaseOn":"Las calificaciones se publicarán el",
+    "gradePending":"Pendiente de calificación",
+    "reviewTest":"Revisar la prueba",
+    "reviewAssignment":"Revisar la prueba",
+    "summary":"Resumen"
+  }
+}

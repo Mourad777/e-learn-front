@@ -1,0 +1,28 @@
+{
+  "es": {
+    "student": "Estudiante",
+    "studentId": "Identificación del Estudiante",
+    "test": "Prueba",
+    "assignment": "Tarea",
+    "weight": "Porcentaje",
+    "lessonsAllowed": "Lecciones permitidas",
+    "timer": "Cronometrada",
+    "type": "Tipo",
+    "quiz": "Test",
+    "midterm": "Examen de mitad de período",
+    "final": "Examen final",
+    "passingRequired": "Aprobación requerida para completar el curso",
+    "passingGrade": "Nota aprobatoria (%)",
+    "availableOnDate": "Fecha de disponibilidad",
+    "gradeReleaseDate": "Fecha de publicación de calificaciones",
+    "dueDate": "Fecha de vencimiento",
+    "closeDate": "Fecha de cierre",
+    "lateSubmissionAllowed": "Permitir envío tardío",
+    "dailyPenalty": "Penalización diaria por retraso (%)",
+    "maxLateDaysAllowed": "Días retrasados permitidos",
+    "yes":"Sí",
+    "no":"No",
+    "minute":"minuto",
+    "plural":{"minute":"minutos"}
+  }
+}

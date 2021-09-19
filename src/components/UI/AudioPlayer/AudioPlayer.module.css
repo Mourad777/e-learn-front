@@ -1,0 +1,35 @@
+.greenIcon {
+	color:#3D9970;
+}
+
+.redIcon {
+	color:#FF4136;
+}
+
+.flexPositioningEven {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.AudioAlignment {
+	line-height: 4;
+}
+
+.Pointer {
+    cursor: pointer;
+}
+
+.errorText {
+    color:#e91313;
+    font-family:Helvetica;
+    font-size:0.75rem;
+    margin-left: 14px;
+}
+
+.advancedAudioPlayer .audio-player {
+    background-color: #b7b7b7;
+    padding: 0.5rem;
+    border-radius: 10px;
+    filter: invert(100%);
+    margin:'auto'
+}

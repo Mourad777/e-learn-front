@@ -1,0 +1,19 @@
+{
+  "en": {
+    "assignment":"assignment",
+    "final":"final exam",
+    "midterm":"midterm exam",
+    "quiz":"quiz",
+    "ofTheassignment":"of the assignment",
+    "ofThefinal":"of the final exam",
+    "ofThemidterm":"of the midterm exam",
+    "ofTheQuiz":"of the quiz",
+    "officehours":"Office hours from {{start}} to {{end}}",
+    "dropDeadline":"Deadline to drop out of {{courseName}} without penalty",
+    "testAvailableOnDate":"The {{testType}} {{testName}} will be available",
+    "testDueDate":"The {{testType}} {{testName}} will be due",
+    "testGradeReleaseDateStudent":"The {{testType}} {{testName}} grades will be released",
+    "lessonAvailableOnDate":"The lesson {{lessonName}} will be available",
+    "testGradeReleaseDateInstructor":"The {{testType}} {{testName}} grades will be due"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "en": {
+    "admin": {
+      "accountActivatedSuccess": "Account activated successfully",
+      "accountActivatedFail": "Account activation failed",
+      "accountSuspendedSuccess": "Account suspended successfully",
+      "accountSuspendedFail": "Account suspension failed",
+      "accountReactivatedSuccess": "Account reactivation failed",
+      "accountReactivatedFail": "Account reactivation failed"
+
+    },
+    "auth": {
+      "loginFail": "Login failed",
+      "fetchUserFail": "Fetch user failed",
+      "accountCreatedSuccess": "Account created, check your e-mail for a verification link",
+      "accountCreatedFail": "Creating account failed",
+      "updatedAccountSuccess": "Account updated",
+      "updatedAccountFail": "Updating account failed",
+      "uploadingPictureFail": "Uploading profile picture failed",
+      "uploadingDocumentsFail": "Uploading account documents failed",
+      "accountVerifySuccess": "Account verified",
+      "accountVerifyFail": "Account verification failed",
+      "verificationLinkSentSuccess": "A verification link was sent to your e-mail",
+      "verificationLinkSentFail": "Failed to send a verification link to your e-mail",
+      "passwordResetLinkSentSuccess": "A password reset link was sent to your e-mail",
+      "passwordResetLinkSentFail": "Failed to send a password reset link to your e-mail",
+      "passwordChangeSuccess": "Password changed",
+      "passwordChangeFail": "Changing the password failed",
+      "extendingSessionFail": "Extending the session failed"
+    },
+
+    "course": {
+      "fetchCoursesFail": "Failed to retrieve courses",
+
+      "requestSentSuccess": "Your request has been sent",
+      "requestSentFailed": "Failed to send enrollment request",
+      "enrollmentApproveFail": "Approving enrollment of the student failed",
+      "studentDenySuccess": "Access has been denied for the student",
+      "studentDenyFail": "Failed to deny access",
+      "courseDropSuccess": "Course dropped",
+      "courseDropFail": "Failed to drop course",
+
+      "fetchCourseFail": "Failed to retrieve course",
+      "createCourseSuccess": "Course created successfully",
+      "updateCourseSuccess": "Course updated",
+      "createCourseFail": "Creating or updating the course failed",
+      "uploadThumbnailFail": "Uploading the course thumbnail failed",
+      "changeStateFail": "Failed to change course state",
+      "deleteCourseFail": "Failed to delete the course",
+      "gradeCourseFail": "Failed to grade the course",
+      "updatingResourcesSuccess": "Resources updated",
+      "updatingResourcesFail": "Updating resources failed",
+      "uploadingResourcesFail":"Uploading resource file failed"
+    },
+    "test": {
+      "retrieveTestFail": "Failed to retrieve test or assignment",
+      "retrieveTestFailDatePassed": "The test that was in progress has closed and has been submitted",
+
+      "fetchTestResultsFail": "Failed to get test results",
+      "uploadAudioFail": "Uploading audio file failed",
+      "studentTestSavedSuccess": "Saved",
+      "studentTestSubmittedSuccess": "Submitted",
+
+
+      "creatingFail": "Failed to created",
+      "updatingFail": "Failed to update",
+
+
+      "uploadingTestResourcesFail": "Uploading text resource file failed",
+      "uploadingAudioResourcesFail": "Uploading audio resource file failed",
+      "uploadingVideoResourcesFail": "Uploading video resource file failed",
+      "uploadingFillblanksAudioFail": "Uploading fill-in-the-blanks audio file failed",
+      "uploadingSpeakingQuestionAudioFail": "Uploading speaking question audio file failed",
+      "uploadingSpeakingAnswerAudioFail": "Uploading speaking answer audio file failed",
+
+      "testDeleteSuccess": "Test deleted",
+      "testDeleteFail": "Failed to delete the test",
+      "closeTestFail": "Closing the test failed",
+      "testResetSuccess": "The test was reset",
+      "testResetFail": "Resetting the test failed",
+
+      "saveGradesSuccess": "Grade saved",
+      "postGradesSuccess": "Grade posted",
+      "saveGradesFail": "Failed to save the grade",
+      "postGradesFail": "Failed to post the grade",
+      "uploadFeedbackAudioFail": "Failed to upload feedback audiofile"
+    },
+    "question": {
+      "fetchQuestionBankFail":"Retrieving the question bank failed",
+      "createQuestionFail": "Creating the question failed",
+      "updateQuestionFail": "Updating the question failed",
+
+      "uploadingFillblanksAudioFail": "Uploading fill-in-the-blanks audio file failed",
+
+      "uploadingSpeakingQuestionAudioFail": "Uploading speaking question audio file failed",
+      "uploadingSpeakingAnswerAudioFail": "Uploading speaking answer audio file failed`",
+      "deleteQuestionSuccess": "Question deleted",
+      "deleteQuestionFail": "Deleting the question failed"
+    },
+    "lesson": {
+      "markSlideFail": "Failed to mark slide as seen",
+
+      "lessonCreatedFail": "Creating the lesson failed",
+      "lessonUpdatedFail": "Updating the lesson failed",
+      "uploadingAudioFail": "Uploading audio file failed",
+      "uploadingVideoFail": "Uploading video file failed",
+      "lessonRetrieveFail": "Retrieving the lesson failed",
+      "lessonDeleteSuccess": "Lesson deleted",
+      "lessonDeleteFail": "Deleting the lesson failed"
+    },
+    "modules": {
+      "retrieveModulesFailed": "Failed to retrieve modules",
+      "updateModulesFailed": "Creating or updating the modules failed"
+    },
+    "notifications": {
+      "retrieveNotificationsFail": "Failed to retrieve the notifications",
+      "markNotificationsFail": "Failed to mark notification as seen"
+    },
+    "config": {
+      "fetchConfigFail": "Failed to retrieve configuration",
+      "updatedConfigFail": "Failed to update the configuration",
+      "updatedConfigSuccess": "The configuration was updated"
+    },
+    "files": {
+      "deleteFilesFailed": "Failed to delete the files"
+    },
+    "student": {
+      "retrieveStudentsFail": "Failed to retrieve students"
+    },
+    "instructor": {
+      "retrieveInstructorsFail": "Failed to get instructors"
+    },
+    "transactions": {
+      "intentCreditcardPaymentFail": "Failed credit card payment"
+    }
+  }
+}

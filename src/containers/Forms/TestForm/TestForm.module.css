@@ -1,0 +1,157 @@
+.QuestionCustomizationContainer {
+	padding: 10px;
+	margin-bottom: 20px;
+	/* background: white; */
+	/* box-shadow: 1rem 1rem 1rem rgba(0,0,0, 0.02); */
+	border-radius: 4px;
+	border:1px solid rgba(0, 0, 0, 0.23)
+}
+
+
+.AudioAlignment {
+	line-height: 4;
+}
+
+.TextField {
+	margin-bottom: 10px;
+}
+
+.TextEditor {
+	margin:20px auto;
+}
+
+.PreviewContainer {
+	padding: 5px;
+    border-radius: 4px;
+	/* background: white; */
+	border-radius: 4px;
+	border:1px solid rgba(0, 0, 0, 0.23);
+	margin-bottom:20px
+}
+
+
+
+.CorrectAnswer {
+	color: #4caf50
+}
+
+.button {
+	margin-bottom: 20px;
+}
+
+.FullWidthImg img {
+	width: 100%;
+}
+
+div figure img {
+	width: 100%;
+}
+
+.Inline {
+    display: inline;
+}
+
+.center {
+	text-align: 'center';
+}
+
+.TestTypeRadio {
+    position: relative;
+    display: inline;
+    top: 21px;
+    left: -12px;
+}
+
+.ListHorizontalDisplay {
+    display: inline-block;
+}
+
+.TestFormList {
+	list-style-type:none;
+	padding:0;
+	/* : hidden; */
+}
+
+.greenIcon {
+	color:#3D9970;
+}
+
+.redIcon {
+	color:#FF4136;
+}
+
+.CorrectAnswerHighlight {
+    background-color: #2196f3;
+    color: white;
+}
+
+
+.BlankPreview {
+    color:#2196f3;
+    font-weight: bold;
+}
+.InputField {
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+	margin: 3px;
+}
+
+.FullWidth {
+	width: 100%;
+}
+
+.InputFieldBottomMargin {
+	margin-bottom: 10px;
+}
+
+.InputField:focus {
+    border: 1px solid #2196f3;
+}
+
+.SelectField{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+}
+
+
+.SelectField:focus{
+	border: 1px solid #2196f3;
+}
+
+.Pointer {
+	cursor: pointer;
+}
+
+.audioPlayerPreview {
+    max-width: 90px;
+	max-height: 20px;
+	background-color: blue;
+}
+
+.errorText {
+    color:#e91313;
+    font-family:Helvetica;
+    font-size:0.75rem;
+    margin-left: 14px;
+  }
+
+@media(min-width:700px) {
+    .Editor {
+		max-width: 600px;
+		margin:0 auto 10px auto;
+    }
+}

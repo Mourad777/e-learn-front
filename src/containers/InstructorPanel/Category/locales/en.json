@@ -1,0 +1,21 @@
+{
+  "en": {
+    "assignments": "Assignments",
+    "lessons": "Lessons",
+    "tests": "Tests",
+
+    "modules": "Modules",
+    "subjects": "Subjects",
+    "topics": "Topics",
+
+    "module": "Module",
+    "subject": "Subject",
+    "topic": "Topic",
+
+    "buttons": {
+      "addmodule": "Add module",
+      "addsubject": "Add subject",
+      "addtopic": "Add topic"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "es": {
+    "pendingRequests": "Solicitudes pendientes",
+    "requestsDenied": "Solicitudes denegadas",
+    "resubmissionAllowed": "Reenvío permitido",
+    "droppedOut": "Abandonó el curso",
+    "buttons": {
+      "gradebook": "Libro de calificaciones"
+    }
+  }
+}

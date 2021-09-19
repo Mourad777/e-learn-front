@@ -1,0 +1,48 @@
+{
+  "en": {
+    "question": "Question",
+    "writeAnswers": "Write some correct and incorrect answers to the question",
+    "selectCorrectAnswers": "Select the correct answer(s)",
+    "option": "option",
+    "fillblanksSectionDefaultText": "<p>Highlight a <mark class='marker-yellow'>piece of text</mark> to create a blank.</p>",
+    "pieceOfText":"piece of text",
+    "english":"english",
+    "errors": {
+      "required": "Required",
+      "answersCantBeEmpty": "Answer fields can't be empty",
+      "atleastTwoAnswers": "At least 2 answers are required",
+      "atleastOneUnchecked": "At least 1 answer must remain unchecked",
+      "selectAtleastOneAnswer": "Select at least 1 correct answer",
+      "answersDifferent": "Your answers must all be different",
+      "requiredOrMakeAudioQuestion": "Required or make an audio question",
+      "requiredOrMakeTextQuestion": "Required or make a text question instead",
+      "audioCannotExceed": "The audio file size cannot exceed",
+      "requiredOrDisableAudioAnswer": "Required or disable audio answer",
+      
+      "correctForm":"Correct the form to continue"
+
+
+
+    },
+
+    "buttons": {
+      "updateQuestion": "Update question",
+      "saveQuestion": "Save question",
+      "addAnswer": "Add answer",
+      "removeQuestion": "Remove question"
+
+    },
+
+    "fields": {
+      "difficulty": "Difficulty",
+      "language": "Language",
+      "tags": "Tags",
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard",
+      "audioQuestion": "Audio question",
+      "audioAnswer": "Audio answer",
+      "solution": "Solution"
+    }
+  }
+}
